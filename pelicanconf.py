@@ -2,8 +2,10 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'Oscar Barragan'
-SITENAME = u'oscaribv'
+SITENAME = u'Oscar Barragán'
 SITEURL = ''
+
+THEME = '/home/oscar/pelican-themes/Flex'
 
 PATH = 'content'
 
@@ -19,14 +21,14 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+#LINKS = (('Pelican', 'http://getpelican.com/'),
+#         ('Python.org', 'http://python.org/'),
+#         ('Jinja2', 'http://jinja.pocoo.org/'),
+#         ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('twitter', 'http://twitter.com/oscaribv'),
+          ('github', 'http://github.com/oscaribv'),)
 
 DEFAULT_PAGINATION = 10
 
