@@ -5,9 +5,11 @@ AUTHOR = u'Oscar Barragan'
 SITENAME = u'Oscar Barragán'
 SITEURL = ''
 
-THEME = '/home/oscar/pelican-themes/Flex'
+THEME = '/home/oscar/Flex'
 
 PATH = 'content'
+
+GOOGLE_ANALYTICS = 'UA-108009879-1'
 
 TIMEZONE = 'Europe/Paris'
 
@@ -28,7 +30,8 @@ AUTHOR_FEED_RSS = None
 
 # Social widget
 SOCIAL = (('twitter', 'http://twitter.com/oscaribv'),
-          ('github', 'http://github.com/oscaribv'),)
+          ('github', 'http://github.com/oscaribv'))
+
 
 DEFAULT_PAGINATION = 10
 
