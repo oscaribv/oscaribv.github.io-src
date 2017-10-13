@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'Oscar Barragan'
-SITENAME = u'Oscar Barragán'
-SITEURL = ''
+AUTHOR = 'Oscar Barragán'
+SITENAME = 'Oscar Barragán web page'
+#SITEURL = ''
 
 THEME = '/home/oscar/Flex'
 
@@ -13,7 +13,17 @@ GOOGLE_ANALYTICS = 'UA-108009879-1'
 
 TIMEZONE = 'Europe/Paris'
 
-DEFAULT_LANG = u'en'
+DEFAULT_LANG = 'en'
+
+# Enable i18n plugin.
+#PLUGINS = ['i18n_subsites']
+# Enable Jinja2 i18n extension used to parse translations.
+#JINJA_EXTENSIONS = ['jinja2.ext.i18n']
+
+# Translate to Spanish.
+DEFAULT_LANG = 'en'
+#OG_LOCALE = 'es_ES'
+#LOCALE = 'es_ES'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None

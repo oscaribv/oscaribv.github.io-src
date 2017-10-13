@@ -1,11 +1,8 @@
 Title: Contact
-Date: 2010-12-03 10:20
-Modified: 2010-12-05 19:30
-Category: Python
-Tags: pelican, publishing
+Date: 2017-10-13
+Modified: 2017-10-13
 Slug: contact
-Authors: Alexis Metaireau, Conan Doyle
-Summary: Short version for index and feeds
 
-This is the content of my super blog post.
+* email 1: oscar.barraganvil_at_edu.unito.it
 
+* email 2: oscaribv_at_gmail.com
