@@ -1,10 +1,18 @@
 Title: Home
-Date: 2010-12-03 10:20
-Modified: 2010-12-05 19:30
-Category: Python
-Tags: pelican, publishing
 Slug: home
+Date: 2017-10-13
+Modified: 2017-10-13
+Lang: en
 Authors: Oscar Barragan
-Summary: Short version for index and feeds
 
-This is the content of my super blog post.
+# Hola, I am Oscar Barragán.
+
+## I am a mexican which once dreamed about become an astronomer.
+
+* If you want to know more about me click [here](about)
+
+* If you want to contact me click [here](contact)
+
+* If you have radial velocity and/or transit data and want to find planets try [pyaneti](https://github.com/oscaribv/pyaneti)
+
+* If you want check my ADS records click [here](https://goo.gl/WkMsqE) 
