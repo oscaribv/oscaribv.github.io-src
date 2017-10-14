@@ -1,15 +1,15 @@
-Title: About me
+Title: ABOUT ME
 Date: 2017-10-10 
 Modified: 2017-10-10
 Slug: about
 Authors: Oscar Barragán
 
-Hola, I am Oscar Barragán. I am a mexican which once dreamed about become an astronomer.
-and now I am currently doing a Ph.D. in Astrophysics at Torino University, in Italy.
+Hola, I am Oscar Barragán. I am a mexican which once dreamed about being an astronomer.
+I am currently a Ph.D. student in Astrophysics at Torino University, in _la bella Italia_.
 
-I share with you what I have done until now:
+I share with you what I have done until now
 
-My scientific interests are mainly:
+## My scientific interests are 
 
 * Exoplanets
 * Planets detection
@@ -19,7 +19,6 @@ My scientific interests are mainly:
 * Bayesian data analysis
 * Numerical astrophysics
 * Hydrodinamical simulations
-
 
 ## Publications
 
@@ -38,22 +37,21 @@ Some nice planet discoveries in which I have participated are
   The planet orbits its star each 10 days. We calculated that the planet will be engulfed by its host star in 3 Gyr.
   The discovery is reported in [**Barragán** et al., 2016, AJ, 152, 193](http://iopscience.iop.org/article/10.3847/0004-6256/152/6/193/meta)
 
-**You can find the whole list of publications [here](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?db_key=AST&db_key=PRE&qform=AST&arxiv_sel=astro-ph&arxiv_sel=cond-mat&arxiv_sel=cs&arxiv_sel=gr-qc&arxiv_sel=hep-ex&arxiv_sel=hep-lat&arxiv_sel=hep-ph&arxiv_sel=hep-th&arxiv_sel=math&arxiv_sel=math-ph&arxiv_sel=nlin&arxiv_sel=nucl-ex&arxiv_sel=nucl-th&arxiv_sel=physics&arxiv_sel=quant-ph&arxiv_sel=q-bio&sim_query=YES&ned_query=YES&adsobj_query=YES&aut_logic=OR&obj_logic=OR&author=Barragan%2C+O&object=&start_mon=&start_year=&end_mon=&end_year=&ttl_logic=OR&title=&txt_logic=OR&text=&nr_to_return=200&start_nr=1&jou_pick=ALL&ref_stems=&data_and=ALL&group_and=ALL&start_entry_day=&start_entry_mon=&start_entry_year=&end_entry_day=&end_entry_mon=&end_entry_year=&min_score=&sort=SCORE&data_type=SHORT&aut_syn=YES&ttl_syn=YES&txt_syn=YES&aut_wt=1.0&obj_wt=1.0&ttl_wt=0.3&txt_wt=3.0&aut_wgt=YES&obj_wgt=YES&ttl_wgt=YES&txt_wgt=YES&ttl_sco=YES&txt_sco=YES&version=1)**.
-
+**You can find the whole list of my publications [here]((https://goo.gl/WkMsqE))**.
 
 ## EDUCATION
 
 #### Dottorato in Fisica e Astrofisica - Ph.D. in Physics and Astrophysics
 
 * October 2015 - Present
-* Department of Physics, University of Torino (Italia)
-* Thesis (preliminary title): Detection and characterization of Super-Earth and Neptune-like planets transiting bright stars
-
+* Department of Physics, University of Torino (Italy)
+* Thesis (preliminary title): Detection and characterization of _K2_ exoplanets
 
 #### Maestría en Ciencias (Astrofísica) - M.Sc. in Astrophysics
 
-* Department of Astronomy, University of Guanajuato (Mexico) \\
-* Thesis: On the stability of circumplanetary disks
+* August 2013 - August 2015 
+* Department of Astronomy, University of Guanajuato (Mexico)
+* Thesis: [On the stability of circumplanetary disks](https://www.researchgate.net/publication/281461299_On_the_stability_of_circumplanetary_disks)
 * *Cum Laude*
 * General Grade: 9.85/10 
 
@@ -62,7 +60,7 @@ Some nice planet discoveries in which I have participated are
 
 * August 2008 - December 2013
 * Department of Physics, University of Guanajuato (Mexico) 
-* Thesis (spanish): Simulation of extragalactic relativistic jets using a magnetohydrodynamical code in general relativity.
+* Thesis (spanish): [Simulation of extragalactic relativistic jets using a magnetohydrodynamical code in general relativity](https://www.researchgate.net/publication/265510224_Simulacion_de_Chorros_Relativistas_Extragalacticos_usando_codigo_de_Magnetohidrodinamica_en_Relatividad_General)
 * Degree with *Distinction*
 * General Grade: 9.1/10
 
@@ -86,9 +84,9 @@ Some nice planet discoveries in which I have participated are
 
 ## COMPUTER SKILLS
 
-* **OS**: Linux/Unix (principally Fedora), Windows.
+* **OS**: Linux/Unix (Ubuntu, Fedora), Windows.
 * **Programming**: git and the web repository [github](https://github.com/), FORTRAN, C,
-  python and parallel computing with OpenMP, MPI and CUDA.
+  python and parallel computing with OpenMP and MPI.
 * **Scientific software**: IRAF, supermongo, Paraview, gnuplot, R, Mendeley, LaTeX, topcat, IDL.
 * **Codes with astronomical application**: [FARGO3D](http://fargo.in2p3.fr/), mercury, CASA.
 * **Others**: Microsoft Office, Libre Office, WPS Office, inkscape, vi, texmaker, stellarium.
@@ -98,8 +96,7 @@ Some nice planet discoveries in which I have participated are
 * More than 20 outreach astronomical activities. They include conferences
   and activities with telescopes, these events have been organized by a collaboration
   between the University of Guanajuato with different institutions such as
-  _Noche de las Estrellas Nacional_ and _Mi Barrio Modelo_, the last one with the
-  aim to teach astronomy in different suburbs of Guanajuato city.
+  _Noche de las Estrellas Nacional_ and _Mi Barrio Modelo_.
 * Invited by different institutions in Mexico for outreach talks such as
   _Centro de Investigaciones en Matemáticas (CIMAT)_ and _Universidad Autónoma de Aguascalientes_.
 * Writing and editing of two articles of scientific disclosure to appear in the magazine
@@ -108,8 +105,13 @@ Some nice planet discoveries in which I have participated are
 
 ## PERSONAL INTERESTS
 
-As well as stars, there are other things that I like ...
+When I am not searching for other planets, I am enjoying the serendipities of this one.
+As well as stars, the other things that I like are...
 
-* Outreach activities, to interest people in science, principally astronomy.
-* Sports: soccer, mixed martial arts, squash, running, street workout.
-* Music, classical and Sci-fi literature, art cinema, tango dancing.
+* Sports: soccer, mixed martial arts, squash, running, street workout
+* Music
+* classical and Sci-fi literature
+* art cinema
+* Dinosaur movies
+* Eat (a lot)
+* tango dancing
