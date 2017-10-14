@@ -10,9 +10,9 @@ save_as: index.html
 
 ## I am a mexican which once dreamed about being an astronomer.
 
-* If you want to know more about me click [here](about)
+* If you want to know more about me click [here](pages/about)
 
-* Click [here](contact) to contact me
+* Click [here](/pages/contact) to contact me
 
 * If you have radial velocity and/or transit data and want to fit planets try [pyaneti](https://github.com/oscaribv/pyaneti)
 
