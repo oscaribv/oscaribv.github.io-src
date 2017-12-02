@@ -2,7 +2,10 @@ Title: ABOUT ME
 Date: 2017-10-10 
 Modified: 2017-10-10
 Slug: about
+Lang: en
 Authors: Oscar Barragán
+
+(Español [aquí](about-es))
 
 Hola, I am Oscar Barragán. I am a mexican which once dreamed about being an astronomer.
 I am currently a Ph.D. student in Astrophysics at Torino University, in _la bella Italia_.
@@ -22,22 +25,23 @@ I share with you what I have done until now
 
 ## Publications
 
-Some nice planet discoveries in which I have participated are
+Some of my nice planet discoveries are
 
+* **EPIC 246393474 b** is a rocky planet which orbit its star each 6.7 hours! This Ultra-Short-Period (P < 1 days) Super-Earth  is the shortest-period planet known to date with a precisely determined mass. Learn more about this planet in [**Barragán** et al., 2017, arXiv:1711.02097](https://arxiv.org/abs/1711.02097).
+* **EPIC218916923 b** is a planet with a size similar to Jupiter, but with a third
+  of the Jupiter mmass. This buddy orbits its star each 29 days!
+  You can find the technical details in [**Barragán** et al., 2017, arXiv:1702.00691](https://arxiv.org/abs/1702.00691)
+* **K2-98 b** is a Neptune-size planet with a density similar to Neptune.
+  The planet orbits its star each 10 days. We calculated that the planet will be engulfed by its host star in 3 Gyr.
+  The discovery is reported in [**Barragán** et al., 2016, AJ, 152, 193](http://iopscience.iop.org/article/10.3847/0004-6256/152/6/193/meta)
 * **HD3167 b and HD3167 c** are two planets orbiting a bright  star (V=8.9 mag).
   HD3167 b is a rocky buddy which orbits the star each 0.96 days,
   while HD3167 c does it in almost 30 days. The nerdy details can be found in [Gandolfi, **Barragán** et al., 2017, AJ, 154, 123](http://iopscience.iop.org/article/10.3847/1538-3881/aa832a/meta)
 * **K2-106 b and c** is other multi planet system. Planet b is an ultra-short-period planet
   with a period of 13 hours. Outer planet takes 13 days to orbit the host star.
   Nice plots and description in [Guenther, **Barragán** et al., 2017, A&A, in press.](https://arxiv.org/abs/1705.04163)
-* **EPIC218916923 b** is a planet with a size similar to Jupiter, but with a third
-  of the Jupiter mmass. This buddy orbits its star each 29 days!
-  You can find the technical details in [**Barragán** et al., 2016, arXiv:1702.00691](https://arxiv.org/abs/1702.00691)
-* **K2-98 b** is a Neptune-size planet with a density similar to Neptune.
-  The planet orbits its star each 10 days. We calculated that the planet will be engulfed by its host star in 3 Gyr.
-  The discovery is reported in [**Barragán** et al., 2016, AJ, 152, 193](http://iopscience.iop.org/article/10.3847/0004-6256/152/6/193/meta)
 
-**You can find the whole list of my publications [here]((https://goo.gl/WkMsqE))**.
+**You can find the whole list of my publications [here](https://goo.gl/WkMsqE)**.
 
 ## EDUCATION
 
