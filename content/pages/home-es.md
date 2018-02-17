@@ -19,4 +19,4 @@ Authors: Oscar Barragan
 
 * Si tienes datos de velocidad radial y/o curva de luz y quieres ajustar por parámetros de planetas, puedes usar [pyaneti](https://github.com/oscaribv/pyaneti) (inglés)
 
-* Da un click [aquí](https://goo.gl/WkMsqE) para ver mi lista de publicaciones
+* Da un click [aquí](https://goo.gl/YAi4NV) para ver mi lista de publicaciones

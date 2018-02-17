@@ -21,4 +21,4 @@ url: index.html
 
 * If you have radial velocity and/or transit data and want to fit planets try [pyaneti](https://github.com/oscaribv/pyaneti)
 
-* Click [here](https://goo.gl/WkMsqE) to give a look to my publications
+* Click [here](https://goo.gl/YAi4NV) to give a look to my publications

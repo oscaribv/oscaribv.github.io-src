@@ -25,14 +25,13 @@ Te comparto lo que he hecho hasta ahora
 
 ## Publicaciones
 
-Some of my nice planet discoveries are
-Algunos de mis descubrimientos de planetas chidos son
+Algunos de mis descubrimientos de planetas son
 
 
-* ¡**EPIC 246393474 b**  es un planeta rocoso que orbita su estrella cada 6.7 horas! 
+* ¡**K2-141 b**  es un planeta rocoso que orbita su estrella cada 6.7 horas! 
   Este planeta de periodo ultra corto (P < 1 día) es el planeta con el periodo más corto que cuenta con una determinación precisa de la masa hasta hoy. 
   Aprende más sobre este planeta en [**Barragán** et al., 2017, arXiv:1711.02097](https://arxiv.org/abs/1711.02097).
-* **EPIC218916923 b** es un planeta con un tamaño similar a Júpiter, pero con una masa que es un tercio de la masa de Júpiter. Este planeta orbita su estrella cada 29 días. Puedes encontrar los detalles técnicos en [**Barragán** et al., 2017, arXiv:1702.00691](https://arxiv.org/abs/1702.00691)
+* **K2-139 b** es un planeta con un tamaño similar a Júpiter, pero con una masa que es un tercio de la masa de Júpiter. Este planeta orbita su estrella cada 29 días. Puedes encontrar los detalles técnicos en [**Barragán** et al., 2017, arXiv:1702.00691](https://arxiv.org/abs/1702.00691)
 * **K2-98 b** es un planeta con tamaño y densidad similar a Neptuno. 
   Este planeta tiene un periodo orbital de 10 días. Calculamos que este planeta será devorado por su estrella en 3 Giga-años (3,000,000,000 años).
   Este descubrimiento está reportado en [**Barragán** et al., 2016, AJ, 152, 193](http://iopscience.iop.org/article/10.3847/0004-6256/152/6/193/meta)
@@ -41,9 +40,9 @@ Algunos de mis descubrimientos de planetas chidos son
   mientras que HD3167 c la orbita en casi un mes. Todos los detalles nerds están descritos en [Gandolfi, **Barragán** et al., 2017, AJ, 154, 123](http://iopscience.iop.org/article/10.3847/1538-3881/aa832a/meta)
 * **K2-106 b y c** es otro sistema con más de un planeta. El planeta b es un planeta de periodo ultra corto con un periodo de solo 13 horas.
   El planeta externo lo hace en 13 días. Estos dos planetas tienen masas similares pero densidades distintas que sugieren diferencias en sus atmósferas. 
-  Bonitos plots y análisis en [Guenther, **Barragán** et al., 2017, A&A, in press.](https://arxiv.org/abs/1705.04163)
+  Bonitos plots y análisis en [Guenther, **Barragán** et al., 2017, A&A, 608, A93](https://arxiv.org/abs/1705.04163)
 
-** Mira más planetas y otras publicaciones [aquí](https://goo.gl/WkMsqE)**.
+** Mira más planetas y otras publicaciones [aquí](https://goo.gl/YAi4NV)**.
 
 ## EDUCACIÓN
 

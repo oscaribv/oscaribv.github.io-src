@@ -27,8 +27,8 @@ I share with you what I have done until now
 
 Some of my nice planet discoveries are
 
-* **EPIC 246393474 b** is a rocky planet which orbit its star each 6.7 hours! This Ultra-Short-Period (P < 1 days) Super-Earth  is the shortest-period planet known to date with a precisely determined mass. Learn more about this planet in [**Barragán** et al., 2017, arXiv:1711.02097](https://arxiv.org/abs/1711.02097).
-* **EPIC218916923 b** is a planet with a size similar to Jupiter, but with a third
+* **K2-141 b** is a rocky planet which orbit its star each 6.7 hours! This Ultra-Short-Period (P < 1 days) Super-Earth  is the shortest-period planet known to date with a precisely determined mass. Learn more about this planet in [**Barragán** et al., 2017, arXiv:1711.02097](https://arxiv.org/abs/1711.02097).
+* **K2-139 b** is a planet with a size similar to Jupiter, but with a third
   of the Jupiter mmass. This buddy orbits its star each 29 days!
   You can find the technical details in [**Barragán** et al., 2017, arXiv:1702.00691](https://arxiv.org/abs/1702.00691)
 * **K2-98 b** is a Neptune-size planet with a density similar to Neptune.
@@ -39,9 +39,9 @@ Some of my nice planet discoveries are
   while HD3167 c does it in almost 30 days. The nerdy details can be found in [Gandolfi, **Barragán** et al., 2017, AJ, 154, 123](http://iopscience.iop.org/article/10.3847/1538-3881/aa832a/meta)
 * **K2-106 b and c** is other multi planet system. Planet b is an ultra-short-period planet
   with a period of 13 hours. Outer planet takes 13 days to orbit the host star.
-  Nice plots and description in [Guenther, **Barragán** et al., 2017, A&A, in press.](https://arxiv.org/abs/1705.04163)
+  Nice plots and description in [Guenther, **Barragán** et al., 2017, A&A, 608, A93](https://arxiv.org/abs/1705.04163)
 
-**You can find the whole list of my publications [here](https://goo.gl/WkMsqE)**.
+** You can find the whole list of my publications [here](https://goo.gl/YAi4NV) **.
 
 ## EDUCATION
 
@@ -112,7 +112,7 @@ Some of my nice planet discoveries are
 When I am not searching for other planets, I am enjoying the serendipities of this one.
 As well as stars, the other things that I like are...
 
-* Sports: soccer, mixed martial arts, squash, running, street workout
+* Sports: football, mixed martial arts, squash, running, street workout
 * Music
 * classical and Sci-fi literature
 * art cinema

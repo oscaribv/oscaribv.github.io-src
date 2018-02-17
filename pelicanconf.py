@@ -5,7 +5,7 @@ AUTHOR = 'Oscar Barragán'
 SITENAME = 'Oscar Barragán web page'
 SITEURL = u''
 
-THEME = '/home/oscar/Flex'
+THEME = '/home/oscar/Projects/Flex'
 
 PATH = 'content'
 
@@ -24,6 +24,7 @@ DEFAULT_LANG = 'en'
 DEFAULT_LANG = 'en'
 #OG_LOCALE = 'es_ES'
 #LOCALE = 'es_ES'
+
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
