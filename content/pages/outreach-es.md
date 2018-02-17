@@ -17,5 +17,5 @@ Nosotros los científicos tenemos el deber de traducir ecuaciones en hojas de pa
 
 * En noviembre del 2017 fui invitado a dar una conferencia como parte del evento nacional en México llamado _Noche de las Estrellas_. El equipo del estupendo podcast de divulgación científica [Ciencia Canibal](https://www.facebook.com/CienciaCanibal/) ([@CienciaCanibal](https://twitter.com/CienciaCanibal)) se encargó de la grabación y edición del audio que está debajo de este texto. Pueden escucharlo y si les agrada hay muchos más episodios con excelente calidad.
 
-![image alt text](oscaribv.github.io/images/exo1.png)
+![image alt text](https://oscaribv.github.io/pages/images/exo1.png)
 [link text](https://youtu.be/BadebnrotFI "exoplanetas")
