@@ -27,13 +27,15 @@ I share with you what I have done until now
 
 Some of my nice planet discoveries are
 
-* **K2-141 b** is a rocky planet which orbit its star each 6.7 hours! This Ultra-Short-Period (P < 1 days) Super-Earth  is the shortest-period planet known to date with a precisely determined mass. Learn more about this planet in [**Barragán** et al., 2017, arXiv:1711.02097](https://arxiv.org/abs/1711.02097).
+* **K2-141 b** is a rocky planet which orbit its star each 6.7 hours! This Ultra-Short-Period (P < 1 days) Super-Earth  is the shortest-period planet known to date with a precisely determined mass. Learn more about this planet in [**Barragán** et al., 2017, A&A, 612, A95](https://www.aanda.org/10.1051/0004-6361/201732217).
 * **K2-139 b** is a planet with a size similar to Jupiter, but with a third
   of the Jupiter mmass. This buddy orbits its star each 29 days!
-  You can find the technical details in [**Barragán** et al., 2017, arXiv:1702.00691](https://arxiv.org/abs/1702.00691)
+  You can find the technical details in [**Barragán** et al., 2017, MNRAS, 475, 175](https://academic.oup.com/mnras/article/475/2/1765/4739349)
 * **K2-98 b** is a Neptune-size planet with a density similar to Neptune.
   The planet orbits its star each 10 days. We calculated that the planet will be engulfed by its host star in 3 Gyr.
   The discovery is reported in [**Barragán** et al., 2016, AJ, 152, 193](http://iopscience.iop.org/article/10.3847/0004-6256/152/6/193/meta)
+* **GJ 9827** is a relatively bright (V=10.4 mag) and close star (30 pc). We first discovered three super-Earth exoplanets in this system and we reported it in [Niraula et al., 2017, AJ, 154, 266](http://iopscience.iop.org/article/10.3847/1538-3881/aa957c/meta).
+After this, we performed a nice RV follow-up and get the masses of the three planets with the main results published in [Prieto-Arranz et al., 2018, A&A, submitted, arXiv:1802.09557](http://arxiv.org/abs/1802.09557).
 * **HD3167 b and HD3167 c** are two planets orbiting a bright  star (V=8.9 mag).
   HD3167 b is a rocky buddy which orbits the star each 0.96 days,
   while HD3167 c does it in almost 30 days. The nerdy details can be found in [Gandolfi, **Barragán** et al., 2017, AJ, 154, 123](http://iopscience.iop.org/article/10.3847/1538-3881/aa832a/meta)
@@ -74,7 +76,7 @@ Some of my nice planet discoveries are
 * **Observational experience**: Multi-band photometric observations at the 2.1 m telescope in San Pedro Mártir,
   Ensenada, BC, Mexico (3 nights). High-resolution spectroscopic observations with FIES at the 2.58 m Nordic Optical Telescope,
   La Palma, Spain (3 nights). High-resolution spectroscopic observations with HARPS at the ESO La Silla 3.6m
-  telescope, La Silla, Chile (21 nights).
+  telescope, La Silla, Chile (33 nights in 6 runs).
 * **Theoretical experience**: Theoretical and numerical simulations of fluid physics in astronomy,
   using classical, relativistic, and general relativistic hydrodynamics. Simulations of relativistic jets
   by using a GRMHD module written by myself. Circumstellar disks simulations by using the state-of-the-art
@@ -97,15 +99,13 @@ Some of my nice planet discoveries are
 
 ## OUTREACH EXPERIENCE
 
+* Online outreach contributions [here](pages/outreach)
 * More than 20 outreach astronomical activities. They include conferences
   and activities with telescopes, these events have been organized by a collaboration
   between the University of Guanajuato with different institutions such as
   _Noche de las Estrellas Nacional_ and _Mi Barrio Modelo_.
 * Invited by different institutions in Mexico for outreach talks such as
   _Centro de Investigaciones en Matemáticas (CIMAT)_ and _Universidad Autónoma de Aguascalientes_.
-* Writing and editing of two articles of scientific disclosure to appear in the magazine
-  [ConCiencia](https://www.researchgate.net/publication/266911395_Revista_de_divulgacion_ConCiencia_2da_edicion),
-  published  by the División de Ciencias e Ingenierías of the University of Guanajuato. August - December 2012.
 
 ## PERSONAL INTERESTS
 
@@ -114,8 +114,9 @@ As well as stars, the other things that I like are...
 
 * Sports: football, mixed martial arts, squash, running, street workout
 * Music
-* classical and Sci-fi literature
-* art cinema
+* Classical and Sci-fi literature
+* Art cinema
 * Dinosaur movies
 * Eat (a lot)
-* tango dancing
+* Tango dancing
+* Photography

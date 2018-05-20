@@ -30,11 +30,13 @@ Algunos de mis descubrimientos de planetas son
 
 * ¡**K2-141 b**  es un planeta rocoso que orbita su estrella cada 6.7 horas! 
   Este planeta de periodo ultra corto (P < 1 día) es el planeta con el periodo más corto que cuenta con una determinación precisa de la masa hasta hoy. 
-  Aprende más sobre este planeta en [**Barragán** et al., 2017, arXiv:1711.02097](https://arxiv.org/abs/1711.02097).
-* **K2-139 b** es un planeta con un tamaño similar a Júpiter, pero con una masa que es un tercio de la masa de Júpiter. Este planeta orbita su estrella cada 29 días. Puedes encontrar los detalles técnicos en [**Barragán** et al., 2017, arXiv:1702.00691](https://arxiv.org/abs/1702.00691)
+  Aprende más sobre este planeta en [**Barragán** et al., 2017, A&A, 612, A95](https://www.aanda.org/10.1051/0004-6361/201732217).
+* **K2-139 b** es un planeta con un tamaño similar a Júpiter, pero con una masa que es un tercio de la masa de Júpiter. Este planeta orbita su estrella cada 29 días. Puedes encontrar los detalles técnicos en [**Barragán** et al., 2017, MNRAS, 475, 175](https://academic.oup.com/mnras/article/475/2/1765/4739349)
 * **K2-98 b** es un planeta con tamaño y densidad similar a Neptuno. 
   Este planeta tiene un periodo orbital de 10 días. Calculamos que este planeta será devorado por su estrella en 3 Giga-años (3,000,000,000 años).
   Este descubrimiento está reportado en [**Barragán** et al., 2016, AJ, 152, 193](http://iopscience.iop.org/article/10.3847/0004-6256/152/6/193/meta)
+* **GJ 9827** es una estrella relativamente brillante (V=10.4 mag) y cercana (30 pc). Primero descubrimos que esta estrella es orbitada por tres súper Tierras y lo reportamos en [Niraula et al., 2017, AJ, 154, 266](http://iopscience.iop.org/article/10.3847/1538-3881/aa957c/meta).
+Después de esto, realizamos un seguimiento de velocidad radial de la estrella y medimos las masas de los tres planetas, cuyos valores están reportados en [Prieto-Arranz et al., 2018, A&A, submitted, arXiv:1802.09557](http://arxiv.org/abs/1802.09557).
 * **HD3167 b y HD3167 c**  son dos planetas orbitando la misma estrella brillante (V=8.9 mag).
   HD3167 b es un planeta rocoso que orbita su estrella en 0.96 días,
   mientras que HD3167 c la orbita en casi un mes. Todos los detalles nerds están descritos en [Gandolfi, **Barragán** et al., 2017, AJ, 154, 123](http://iopscience.iop.org/article/10.3847/1538-3881/aa832a/meta)
@@ -76,7 +78,7 @@ Algunos de mis descubrimientos de planetas son
   Espectroscopía de alta resolución con FIES al _Nordic Optical Telescope_ de 2.58 m, 
   La Palma, España (3 noches). 
   Espectroscopía de alta resolución con HARPS al telescopio 3.6 m de la ESO,
-  La Silla, Chile (21 noches).
+  La Silla, Chile (33 noches en 6 temporadas).
 * **Experiencia teórica**: Cálculos teóricos y numéricos de física de fluidos en astronomía,
   usando hidrodinámica clásica y relativista. Escribí y use un módulo GRMHD por mi mismo.
   Simulación de discos circumestelares utilizando el código de última generación FARGO3D. 
@@ -96,11 +98,10 @@ Algunos de mis descubrimientos de planetas son
 
 ## DIVULGACIÓN
 
+* Contribuciones a la divulgación on-line [aquí](pages/outreach-es)
 * Más de 20 actividades de divulgación astronómica. Entre ellas están conferencias y actividades al aire libre con telescopios. Estos eventos fueron realizados en colaboración del Departamento de Astronomía de la Universidad de Guanajuato con diferentes instituciones como 
   _Noche de las Estrellas Nacional_ y _Mi Barrio Modelo_.
 * Invitado por diferentes instituciones en México para realizar charlas de divulgación. Estás instituciones son _Centro de Investigaciones en Matemáticas (CIMAT)_, _Universidad Autónoma de Aguascalientes_, _Museo Descubre_, entre otras.
-* Escritura de dos artículos de divulgación y edición de una revista de divulgación como servicio social precional. Esta revista llamada
-  [ConCiencia](https://www.researchgate.net/publication/266911395_Revista_de_divulgacion_ConCiencia_2da_edicion) fue publicada por la  División de Ciencias e Ingenierías de la Universidad de Guanajuato. Agosto - Diciembre 2012.
 
 ## INTERESES PERSONALES
 
@@ -114,3 +115,4 @@ Además de las estrellas, las otras cosas que me gustan son ...
 * Películas de dinosaurios
 * Comer (mucho)
 * Tango
+* Fotografía
