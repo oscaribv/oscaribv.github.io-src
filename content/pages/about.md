@@ -5,10 +5,9 @@ Slug: about
 Lang: en
 Authors: Oscar Barragán
 
-(Español [aquí](about-es))
 
-Hola, I am Oscar Barragán. I am a mexican which once dreamed about being an astronomer.
-I am currently a Ph.D. student in Astrophysics at Torino University, in _la bella Italia_.
+Hola, I am Oscar Barragán. 
+I currently work as a post-doc at the Department of Physics of the [University of Oxford](https://www2.physics.ox.ac.uk/contacts/people/barragan).
 
 I share with you what I have done until now
 
@@ -25,7 +24,7 @@ I share with you what I have done until now
 
 ## Publications
 
-Some of my nice planet discoveries are
+Some of the nice planet discoveries in which I have participated are
 
 * **K2-141 b** is a rocky planet which orbit its star each 6.7 hours! This Ultra-Short-Period (P < 1 days) Super-Earth  is the shortest-period planet known to date with a precisely determined mass. Learn more about this planet in [**Barragán** et al., 2017, A&A, 612, A95](https://www.aanda.org/10.1051/0004-6361/201732217).
 * **K2-139 b** is a planet with a size similar to Jupiter, but with a third
@@ -43,22 +42,23 @@ After this, we performed a nice RV follow-up and get the masses of the three pla
   with a period of 13 hours. Outer planet takes 13 days to orbit the host star.
   Nice plots and description in [Guenther, **Barragán** et al., 2017, A&A, 608, A93](https://arxiv.org/abs/1705.04163)
 
-** You can find the whole list of my publications [here](https://goo.gl/YAi4NV) **.
+** You can find other interesting planets and the whole list of my publications [here](https://goo.gl/YAi4NV) **.
 
 ## EDUCATION
 
 #### Dottorato in Fisica e Astrofisica - Ph.D. in Physics and Astrophysics
 
-* October 2015 - Present
+* October 2015 - October 2018
 * Department of Physics, University of Torino (Italy)
-* Thesis (preliminary title): Detection and characterization of _K2_ exoplanets
+* Thesis: Unveiling the Nature of Faraway Worlds: Intensive Characterisation of _K2_ transiting exoplanets
+* Degree obtained with *Lode*
 
 #### Maestría en Ciencias (Astrofísica) - M.Sc. in Astrophysics
 
 * August 2013 - August 2015 
 * Department of Astronomy, University of Guanajuato (Mexico)
 * Thesis: [On the stability of circumplanetary disks](https://www.researchgate.net/publication/281461299_On_the_stability_of_circumplanetary_disks)
-* *Cum Laude*
+* Degree obtained with *Cum Laude*
 * General Grade: 9.85/10 
 
 
@@ -100,6 +100,7 @@ After this, we performed a nice RV follow-up and get the masses of the three pla
 ## OUTREACH EXPERIENCE
 
 * Online outreach contributions [here](pages/outreach)
+* Participant in Outreach activities organised by the University of Oxford (Jan 2019 - present).
 * More than 20 outreach astronomical activities. They include conferences
   and activities with telescopes, these events have been organized by a collaboration
   between the University of Guanajuato with different institutions such as
@@ -120,3 +121,5 @@ As well as stars, the other things that I like are...
 * Eat (a lot)
 * Tango dancing
 * Photography
+
+

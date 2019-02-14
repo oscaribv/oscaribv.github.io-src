@@ -4,7 +4,6 @@ Modified: 2017-12-02
 Lang: en
 Slug: outreach
 
-(Español [aquí](outreach-es))
 
 ## Why to do outreach?
 

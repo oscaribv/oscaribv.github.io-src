@@ -7,9 +7,6 @@ Authors: Oscar Barragan
 
 # Hola, mi nombre es Oscar Barragán.
 
-## Soy un mexicano que alguna vez soñó con ser un astrónomo.
-
-(English [here](../index))
 
 * Si quieres saber más sobre mi da un click [aquí](about-es)
 

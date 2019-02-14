@@ -9,10 +9,6 @@ url: index.html
 
 # Hola, I am Oscar Barragán.
 
-## I am a mexican which once dreamed about being an astronomer.
-
-(Español [aquí](pages/home-es))
-
 * If you want to know more about me click [here](pages/about)
 
 * My outreach experience can be seen [here](pages/outreach) 

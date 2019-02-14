@@ -5,7 +5,7 @@ AUTHOR = 'Oscar Barragán'
 SITENAME = 'Oscar Barragán web page'
 SITEURL = u''
 
-THEME = '/home/oscar/Projects/Flex'
+THEME = '/home/barraganl/Projects/flex'
 
 PATH = 'content'
 
@@ -42,7 +42,7 @@ AUTHOR_FEED_RSS = None
 # Social widget
 SOCIAL = (('twitter', 'http://twitter.com/oscaribv'),
           ('github', 'http://github.com/oscaribv'),
-          ('linkedin', 'http://mx.linkedin.com/in/oscaribv'))
+          ('instagram', 'https://www.instagram.com/oscaribv'))
 
 
 DEFAULT_PAGINATION = 10

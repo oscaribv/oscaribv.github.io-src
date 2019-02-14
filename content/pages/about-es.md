@@ -5,19 +5,17 @@ Slug: about
 Lang: es
 Authors: Oscar Barragán
 
-(English [here](about))
+Hola, mi nombre es Oscar Barragán.
+Actualmente realizo un post-doctorado en el Departamento de Física de la [Universidad de Oxford](https://www2.physics.ox.ac.uk/contacts/people/barragan).
 
-Hola, mi nombre es Oscar Barragán. Soy un mexicano que alguna vez soñó con ser astrónomo.
-Actualmente soy un estudiante de doctorado en la Universidad de Torino en _la bella Italia_.
-
-Te comparto lo que he hecho hasta ahora
+Debajo te comparto un poco de mi:
 
 ## Mis intereses científicos son  
 
 * Exoplanetas
 * Detección de planetas
 * Planetas transitantes
-* Velocidad radial de alta precisión
+* Velocidad radial
 * Espectroscopía de alta resolución
 * Estadística Bayesiana
 * Astrofísica númerica
@@ -25,7 +23,7 @@ Te comparto lo que he hecho hasta ahora
 
 ## Publicaciones
 
-Algunos de mis descubrimientos de planetas son
+Algunos de los descubrimientos de exoplanetas en los que he participado son
 
 
 * ¡**K2-141 b**  es un planeta rocoso que orbita su estrella cada 6.7 horas! 
@@ -44,29 +42,30 @@ Después de esto, realizamos un seguimiento de velocidad radial de la estrella y
   El planeta externo lo hace en 13 días. Estos dos planetas tienen masas similares pero densidades distintas que sugieren diferencias en sus atmósferas. 
   Bonitos plots y análisis en [Guenther, **Barragán** et al., 2017, A&A, 608, A93](https://arxiv.org/abs/1705.04163)
 
-** Mira más planetas y otras publicaciones [aquí](https://goo.gl/YAi4NV)**.
+** Mira más planetas y otras de mis publicaciones [aquí](https://goo.gl/YAi4NV)**.
 
 ## EDUCACIÓN
 
 #### Dottorato in Fisica e Astrofisica - Doctorado en Física y Astrofísica
 
-* Octubre 2015 - Presente
+* Octubre 2015 - Octubre 2018
 * Departamento de Física, Universidad de Torino (Italia)
-* Tesis (título preliminar): Detección y caracterización de exoplanetas de _K2_
+* Tesis: Unveiling the Nature of Faraway Worlds: Intensive Characterisation of _K2_ transiting exoplanets
+* Título obtenido con *Lode*
 
 #### Maestría en Ciencias (Astrofísica) 
 
 * Agosto 2013 - Agosto 2015 
 * Departamento de Astronomía, Universidad de Guanajuato  (México)
 * Tesis (inglés): [On the stability of circumplanetary disks](https://www.researchgate.net/publication/281461299_On_the_stability_of_circumplanetary_disks)
-* *Cum Laude*
+* Título obtenido con *Cum Laude*
 * Promedio final: 9.85/10 
 
 
 #### Licenciatura en Física 
 
 * Agosto 2008 - Diciembre 2013
-* Departamento de Física, Universidad de Guanajuato (México)  
+* Departamento de Física, Universidad de Guanajuato (México)
 * Tesis: [Simulación de Chorros Relativistas extragalácticos usando un código de magnetohidrodinámica en Relativdad General](https://www.researchgate.net/publication/265510224_Simulacion_de_Chorros_Relativistas_Extragalacticos_usando_codigo_de_Magnetohidrodinamica_en_Relatividad_General)
 * Título con *Distinción*
 * Promedio final: 9.1/10
@@ -99,6 +98,7 @@ Después de esto, realizamos un seguimiento de velocidad radial de la estrella y
 ## DIVULGACIÓN
 
 * Contribuciones a la divulgación on-line [aquí](pages/outreach-es)
+* Participante en actidades de divulgación organizadas por la Universidad de Oxford (Jan 2019 - present).
 * Más de 20 actividades de divulgación astronómica. Entre ellas están conferencias y actividades al aire libre con telescopios. Estos eventos fueron realizados en colaboración del Departamento de Astronomía de la Universidad de Guanajuato con diferentes instituciones como 
   _Noche de las Estrellas Nacional_ y _Mi Barrio Modelo_.
 * Invitado por diferentes instituciones en México para realizar charlas de divulgación. Estás instituciones son _Centro de Investigaciones en Matemáticas (CIMAT)_, _Universidad Autónoma de Aguascalientes_, _Museo Descubre_, entre otras.

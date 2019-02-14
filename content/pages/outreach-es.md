@@ -4,7 +4,6 @@ Modified: 2017-12-02
 Lang: es
 Slug: outreach
 
-(English [here](outreach))
 
 ## ¿Por qué hay que divulgar ciencia?
 
