@@ -8,6 +8,9 @@ SITEURL = u''
 THEME = '/home/barraganl/Projects/flex'
 
 PATH = 'content'
+ARTICLE_PATHS = ['Astroaventuras']
+ARTICLE_SAVE_AS = '{date:%Y}/{slug}.html'
+ARTICLE_URL = '{date:%Y}/{slug}.html'
 
 GOOGLE_ANALYTICS = 'UA-108009879-1'
 
@@ -34,10 +37,8 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-#LINKS = (('Pelican', 'http://getpelican.com/'),
-#         ('Python.org', 'http://python.org/'),
-#         ('Jinja2', 'http://jinja.pocoo.org/'),
-#         ('You can modify those links in your config file', '#'),)
+LINKS = (('CV', 'https://www.dropbox.com/s/g2xnsgjozgockar/CV_OscarBarragan.pdf?dl=0'),
+          ('Publications','https://goo.gl/YAi4NV'),)
 
 # Social widget
 SOCIAL = (('twitter', 'http://twitter.com/oscaribv'),
