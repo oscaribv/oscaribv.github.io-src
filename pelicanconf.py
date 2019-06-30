@@ -3,9 +3,16 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Oscar Barragán'
 SITENAME = 'Oscar Barragán web page'
-SITEURL = u''
+SITEURL = 'https://oscaribv.github.io'
+SITETITLE = 'Oscar Barragán'
+SITESUBTITLE = 'Ph.D. in Astrophysics'
+FAVICON = SITEURL + '/images/io.jpg'
+MAIN_MENU = True
+DISPLAY_PAGES_ON_MENU = False
 
-#THEME = '/home/barraganl/Projects/flex'
+THEME = '/home/barraganl/Projects/flex'
+
+COPYRIGHT_NAME = 'Oscar Barragán'
 
 PATH = 'content'
 ARTICLE_PATHS = ['astroaventuras','tutorials']
@@ -20,18 +27,25 @@ TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = 'en'
 
-# Enable i18n plugin.
-#PLUGINS = ['i18n_subsites']
-# Enable Jinja2 i18n extension used to parse translations.
-#JINJA_EXTENSIONS = ['jinja2.ext.i18n']
+## Enable i18n plugin.
+#PLUGIN_PATHS = ['/home/barraganl/Projects/pelican-plugins', ]
+#PLUGINS = ['i18n_subsites', ]
+#JINJA_ENVIRONMENT = {
+#    'extensions': ['jinja2.ext.i18n'],
+#}
+
 
 # Feed generation is usually not desired when developing
-FEED_ALL_ATOM = None
-CATEGORY_FEED_ATOM = None
-TRANSLATION_FEED_ATOM = None
-AUTHOR_FEED_ATOM = None
-AUTHOR_FEED_RSS = None
+#FEED_ALL_ATOM = None
+#CATEGORY_FEED_ATOM = None
+#TRANSLATION_FEED_ATOM = None
+#AUTHOR_FEED_ATOM = None
+#AUTHOR_FEED_RSS = None
 
+
+MENUITEMS = (('About me',SITEURL+'/pages/about.html'),
+             ('Categories', '/categories.html'),
+             ('Tags', '/tags.html'),)
 # Blogroll
 LINKS = ( ('Publications','https://goo.gl/YAi4NV'),
           ('ORCID','https://orcid.org/0000-0003-0563-0493'))

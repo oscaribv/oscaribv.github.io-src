@@ -5,7 +5,10 @@ Modified: 2017-12-02
 Lang: es
 Authors: Oscar Barragan
 
-# Hola, mi nombre es Oscar Barragán.
+# Hola, mi nombre es **Oscar Barragán**.
+
+Soy un astrofísico mexicano que busca por mundos lejanos, también llamados exoplanetas.
+Actualmente realizo un post-doc en el Departamento de Física de la [Universidad de Oxford](https://www2.physics.ox.ac.uk/contacts/people/barragan).
 
 
 * Si quieres saber más sobre mi da un click [aquí](about-es)

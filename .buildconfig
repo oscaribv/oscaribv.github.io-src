@@ -1,0 +1,10 @@
+[default]
+name=Default
+runtime=host
+config-opts=
+run-opts=
+prefix=/home/barraganl/.cache/gnome-builder/install/oscaribv.github.io-src/host
+app-id=
+postbuild=
+prebuild=
+default=true

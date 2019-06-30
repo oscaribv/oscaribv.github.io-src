@@ -4,10 +4,14 @@ import os
 import shutil
 import sys
 import datetime
+try:
+    import socketserver
+except ImportError:
+    import SocketServer as socketserver
 
 from invoke import task
 from invoke.util import cd
-from pelican.server import ComplexHTTPRequestHandler, RootedHTTPServer
+from pelican.server import ComplexHTTPRequestHandler
 
 CONFIG = {
     # Local path configuration (can be absolute or relative to tasks.py)
@@ -44,12 +48,12 @@ def regenerate(c):
 @task
 def serve(c):
     """Serve site at http://localhost:8000/"""
+    os.chdir(CONFIG['deploy_path'])
 
-    class AddressReuseTCPServer(RootedHTTPServer):
+    class AddressReuseTCPServer(socketserver.TCPServer):
         allow_reuse_address = True
 
     server = AddressReuseTCPServer(
-        CONFIG['deploy_path'],
         ('', CONFIG['port']),
         ComplexHTTPRequestHandler)
 

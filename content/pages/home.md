@@ -4,8 +4,13 @@ Date: 2017-10-13
 Modified: 2017-12-02
 Lang: en
 Authors: Oscar Barragan
+save_as: index.html
+url: index.html
 
-# Hola, I am Oscar Barragán.
+# Hola, my name is **Oscar Barragán**. 
+
+I am mexican astrophysics who search for faraway worlds, also called exoplanets.
+I currently work as a post-doc at the Department of Physics of the [University of Oxford](https://www2.physics.ox.ac.uk/contacts/people/barragan).
 
 * If you want to know more about me click [here](pages/about)
 
@@ -14,5 +19,3 @@ Authors: Oscar Barragan
 * Click [here](pages/contact) to contact me
 
 * If you have radial velocity and/or transit data and want to fit planets try [pyaneti](https://github.com/oscaribv/pyaneti)
-
-* Click [here](https://goo.gl/YAi4NV) to give a look to my publications

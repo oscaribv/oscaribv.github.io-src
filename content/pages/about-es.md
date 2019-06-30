@@ -5,12 +5,15 @@ Slug: about
 Lang: es
 Authors: Oscar Barragán
 
-Hola, mi nombre es Oscar Barragán.
-Actualmente realizo un post-doctorado en el Departamento de Física de la [Universidad de Oxford](https://www2.physics.ox.ac.uk/contacts/people/barragan).
+## POSICIONES
 
-Debajo te comparto un poco de mi:
+#### PDRA in exoplanet discovery with the PLATO mission  
 
-## Mis intereses científicos son  
+* Enero 2019 - enero 2021
+* [Departamento de Física, Universidad de Oxford](https://www2.physics.ox.ac.uk/contacts/people/barragan), Reino Unido.
+
+
+## INTERESES CIENTÍFICOS  
 
 * Exoplanetas
 * Detección de planetas
@@ -21,11 +24,17 @@ Debajo te comparto un poco de mi:
 * Astrofísica númerica
 * Simulaciones hidrodinámicas
 
-## Publicaciones
+## PUBLICACIONES
 
-Algunos de los descubrimientos de exoplanetas en los que he participado son
+Soy primer autor de cuatro artículos científicos. Una pequeña descripción de ellos aparece aquí:
 
-
+* [**pyaneti**](https://github.com/oscaribv/pyaneti) es un software capaz de ajustar modelos de multiplanetas a datos de velocidad radial y tránsitos.
+  El código utiliza métodos Markov chain Monte Carlo con estadística Bayesiana para explorar los espacios de parámetros multi-dimensionales.
+  pyaneti está escrito en FORTRAN y PYTHON, lo que hace de este un código rápido y versatil.
+  Crea plots (posteriors, correlaciones, series de datos) que están listos para ser publicados. Es capaz de trabajar con órbitas circulares y eccentricas,
+  sistemas multiplanetarios, _limb darkening_, datos de múltiples espectrógrafos, etc.
+  Mira más detalles de este genial, rápido y compleamente código abierto en 
+  [**Barragán**, Gandolfi, and Antoniciello, 2019, MNRAS, 482, 1017](https://academic.oup.com/mnras/article-abstract/482/1/1017/5094600).
 * ¡**K2-141 b**  es un planeta rocoso que orbita su estrella cada 6.7 horas! 
   Este planeta de periodo ultra corto (P < 1 día) es el planeta con el periodo más corto que cuenta con una determinación precisa de la masa hasta hoy. 
   Aprende más sobre este planeta en [**Barragán** et al., 2017, A&A, 612, A95](https://www.aanda.org/10.1051/0004-6361/201732217).
@@ -33,16 +42,8 @@ Algunos de los descubrimientos de exoplanetas en los que he participado son
 * **K2-98 b** es un planeta con tamaño y densidad similar a Neptuno. 
   Este planeta tiene un periodo orbital de 10 días. Calculamos que este planeta será devorado por su estrella en 3 Giga-años (3,000,000,000 años).
   Este descubrimiento está reportado en [**Barragán** et al., 2016, AJ, 152, 193](http://iopscience.iop.org/article/10.3847/0004-6256/152/6/193/meta)
-* **GJ 9827** es una estrella relativamente brillante (V=10.4 mag) y cercana (30 pc). Primero descubrimos que esta estrella es orbitada por tres súper Tierras y lo reportamos en [Niraula et al., 2017, AJ, 154, 266](http://iopscience.iop.org/article/10.3847/1538-3881/aa957c/meta).
-Después de esto, realizamos un seguimiento de velocidad radial de la estrella y medimos las masas de los tres planetas, cuyos valores están reportados en [Prieto-Arranz et al., 2018, A&A, submitted, arXiv:1802.09557](http://arxiv.org/abs/1802.09557).
-* **HD3167 b y HD3167 c**  son dos planetas orbitando la misma estrella brillante (V=8.9 mag).
-  HD3167 b es un planeta rocoso que orbita su estrella en 0.96 días,
-  mientras que HD3167 c la orbita en casi un mes. Todos los detalles nerds están descritos en [Gandolfi, **Barragán** et al., 2017, AJ, 154, 123](http://iopscience.iop.org/article/10.3847/1538-3881/aa832a/meta)
-* **K2-106 b y c** es otro sistema con más de un planeta. El planeta b es un planeta de periodo ultra corto con un periodo de solo 13 horas.
-  El planeta externo lo hace en 13 días. Estos dos planetas tienen masas similares pero densidades distintas que sugieren diferencias en sus atmósferas. 
-  Bonitos plots y análisis en [Guenther, **Barragán** et al., 2017, A&A, 608, A93](https://arxiv.org/abs/1705.04163)
 
-** Mira más planetas y otras de mis publicaciones [aquí](https://goo.gl/YAi4NV)**.
+** También soy coautor de otros treinta artículos científicos. Puedes encontrar mi lista completa de publicaciones [aquí](https://goo.gl/YAi4NV) **.
 
 ## EDUCACIÓN
 
@@ -50,7 +51,7 @@ Después de esto, realizamos un seguimiento de velocidad radial de la estrella y
 
 * Octubre 2015 - Octubre 2018
 * Departamento de Física, Universidad de Torino (Italia)
-* Tesis: Unveiling the Nature of Faraway Worlds: Intensive Characterisation of _K2_ transiting exoplanets
+* Tesis: [Unveiling the Nature of Faraway Worlds: Intensive Characterisation of _K2_ transiting exoplanets](https://zenodo.org/record/2592750)
 * Título obtenido con *Lode*
 
 #### Maestría en Ciencias (Astrofísica) 
@@ -70,6 +71,10 @@ Después de esto, realizamos un seguimiento de velocidad radial de la estrella y
 * Título con *Distinción*
 * Promedio final: 9.1/10
 
+## SERVICIOS DE RÉFERI
+
+* Astronomical Journal (AJ).
+* Nature Astronomy (Nat. Astron.).
 
 ## EXPERIENCIA EN ASTRONOMÍA
 
@@ -113,6 +118,5 @@ Además de las estrellas, las otras cosas que me gustan son ...
 * Literatura clásica y de ciencia ficción
 * Cine de arte
 * Películas de dinosaurios
-* Comer (mucho)
 * Tango
 * Fotografía

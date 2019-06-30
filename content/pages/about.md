@@ -5,13 +5,14 @@ Slug: about
 Lang: en
 Authors: Oscar Barragán
 
+## POSITIONS
 
-Hola, I am Oscar Barragán. 
-I currently work as a post-doc at the Department of Physics of the [University of Oxford](https://www2.physics.ox.ac.uk/contacts/people/barragan).
+#### PDRA in exoplanet discovery with the PLATO mission  
 
-I share with you what I have done until now
+* Jan. 2019 - Jan. 2021
+* [Department of Physics, University of Oxford](https://www2.physics.ox.ac.uk/contacts/people/barragan), UK.
 
-## My scientific interests are 
+## SCIENTIFIC INTERESTS 
 
 * Exoplanets
 * Planets detection
@@ -22,27 +23,28 @@ I share with you what I have done until now
 * Numerical astrophysics
 * Hydrodinamical simulations
 
-## Publications
+## PUBLICATIONS
 
-Some of the nice planet discoveries in which I have participated are
+I am first author of four papers peer-review journals, they are described briefly here:
 
-* **K2-141 b** is a rocky planet which orbit its star each 6.7 hours! This Ultra-Short-Period (P < 1 days) Super-Earth  is the shortest-period planet known to date with a precisely determined mass. Learn more about this planet in [**Barragán** et al., 2017, A&A, 612, A95](https://www.aanda.org/10.1051/0004-6361/201732217).
+* [**pyaneti**](https://github.com/oscaribv/pyaneti) is a multi-planet radial velocity and transit fit software. 
+  The code uses Markov chain Monte Carlo (MCMC) methods with a Bayesian approach and a parallelized ensemble sampler 
+  algorithm in Fortran which makes the code fast. It creates posteriors, correlations, and ready-to-publish plots automatically, 
+  and handles circular and eccentric orbits. It is capable of multi-planet fitting and handles stellar limb darkening, 
+  systemic velocities for multiple instruments, and short and long cadence data, and offers additional capabilities.
+  Learn more about this awesome, fast and totally open source code in 
+  [**Barragán**, Gandolfi, and Antoniciello, 2019, MNRAS, 482, 1017](https://academic.oup.com/mnras/article-abstract/482/1/1017/5094600).
+* **K2-141 b** is a rocky planet which orbit its star each 6.7 hours! This Ultra-Short-Period (P < 1 days) Super-Earth
+  is the shortest-period planet known to date with a precisely determined mass. 
+  Learn more about this planet in [**Barragán** et al., 2017, A&A, 612, A95](https://www.aanda.org/10.1051/0004-6361/201732217).
 * **K2-139 b** is a planet with a size similar to Jupiter, but with a third
   of the Jupiter mmass. This buddy orbits its star each 29 days!
   You can find the technical details in [**Barragán** et al., 2017, MNRAS, 475, 175](https://academic.oup.com/mnras/article/475/2/1765/4739349)
 * **K2-98 b** is a Neptune-size planet with a density similar to Neptune.
   The planet orbits its star each 10 days. We calculated that the planet will be engulfed by its host star in 3 Gyr.
   The discovery is reported in [**Barragán** et al., 2016, AJ, 152, 193](http://iopscience.iop.org/article/10.3847/0004-6256/152/6/193/meta)
-* **GJ 9827** is a relatively bright (V=10.4 mag) and close star (30 pc). We first discovered three super-Earth exoplanets in this system and we reported it in [Niraula et al., 2017, AJ, 154, 266](http://iopscience.iop.org/article/10.3847/1538-3881/aa957c/meta).
-After this, we performed a nice RV follow-up and get the masses of the three planets with the main results published in [Prieto-Arranz et al., 2018, A&A, submitted, arXiv:1802.09557](http://arxiv.org/abs/1802.09557).
-* **HD3167 b and HD3167 c** are two planets orbiting a bright  star (V=8.9 mag).
-  HD3167 b is a rocky buddy which orbits the star each 0.96 days,
-  while HD3167 c does it in almost 30 days. The nerdy details can be found in [Gandolfi, **Barragán** et al., 2017, AJ, 154, 123](http://iopscience.iop.org/article/10.3847/1538-3881/aa832a/meta)
-* **K2-106 b and c** is other multi planet system. Planet b is an ultra-short-period planet
-  with a period of 13 hours. Outer planet takes 13 days to orbit the host star.
-  Nice plots and description in [Guenther, **Barragán** et al., 2017, A&A, 608, A93](https://arxiv.org/abs/1705.04163)
 
-** You can find other interesting planets and the whole list of my publications [here](https://goo.gl/YAi4NV) **.
+** I am coauthor of another thirty peer-review papers. You can find my whole list of my publications [here](https://goo.gl/YAi4NV) **.
 
 ## EDUCATION
 
@@ -50,7 +52,7 @@ After this, we performed a nice RV follow-up and get the masses of the three pla
 
 * October 2015 - October 2018
 * Department of Physics, University of Torino (Italy)
-* Thesis: Unveiling the Nature of Faraway Worlds: Intensive Characterisation of _K2_ transiting exoplanets
+* Thesis: [Unveiling the Nature of Faraway Worlds: Intensive Characterisation of _K2_ transiting exoplanets](https://zenodo.org/record/2592750)
 * Degree obtained with *Lode*
 
 #### Maestría en Ciencias (Astrofísica) - M.Sc. in Astrophysics
@@ -69,6 +71,11 @@ After this, we performed a nice RV follow-up and get the masses of the three pla
 * Thesis (spanish): [Simulation of extragalactic relativistic jets using a magnetohydrodynamical code in general relativity](https://www.researchgate.net/publication/265510224_Simulacion_de_Chorros_Relativistas_Extragalacticos_usando_codigo_de_Magnetohidrodinamica_en_Relatividad_General)
 * Degree with *Distinction*
 * General Grade: 9.1/10
+
+## REFEREE SERVICES
+
+* Astronomical Journal (AJ).
+* Nature Astronomy (Nat. Astron.).
 
 
 ## EXPERIENCE IN ASTRONOMY
@@ -118,8 +125,5 @@ As well as stars, the other things that I like are...
 * Classical and Sci-fi literature
 * Art cinema
 * Dinosaur movies
-* Eat (a lot)
 * Tango dancing
 * Photography
-
-
