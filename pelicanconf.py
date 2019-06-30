@@ -5,12 +5,14 @@ AUTHOR = 'Oscar Barragán'
 SITENAME = 'Oscar Barragán web page'
 SITEURL = u''
 
-THEME = '/home/barraganl/Projects/flex'
+#THEME = '/home/barraganl/Projects/flex'
 
 PATH = 'content'
-ARTICLE_PATHS = ['Astroaventuras']
+ARTICLE_PATHS = ['astroaventuras','tutorials']
 ARTICLE_SAVE_AS = '{date:%Y}/{slug}.html'
 ARTICLE_URL = '{date:%Y}/{slug}.html'
+
+OUTPUT_PATH = '../oscaribv.github.io'
 
 GOOGLE_ANALYTICS = 'UA-108009879-1'
 
@@ -23,12 +25,6 @@ DEFAULT_LANG = 'en'
 # Enable Jinja2 i18n extension used to parse translations.
 #JINJA_EXTENSIONS = ['jinja2.ext.i18n']
 
-# Translate to Spanish.
-DEFAULT_LANG = 'en'
-#OG_LOCALE = 'es_ES'
-#LOCALE = 'es_ES'
-
-
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
@@ -37,12 +33,13 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('CV', 'https://www.dropbox.com/s/g2xnsgjozgockar/CV_OscarBarragan.pdf?dl=0'),
-          ('Publications','https://goo.gl/YAi4NV'),)
+LINKS = ( ('Publications','https://goo.gl/YAi4NV'),
+          ('ORCID','https://orcid.org/0000-0003-0563-0493'))
 
 # Social widget
 SOCIAL = (('twitter', 'http://twitter.com/oscaribv'),
           ('github', 'http://github.com/oscaribv'),
+          ('linkedin', 'https://www.linkedin.com/in/oscaribv/'),
           ('instagram', 'https://www.instagram.com/oscaribv'))
 
 
