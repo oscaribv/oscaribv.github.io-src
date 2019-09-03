@@ -2,13 +2,13 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Oscar Barragán'
-SITENAME = 'Oscar Barragán web page'
+SITENAME = "Oscar Barragán's web page"
 SITEURL = 'https://oscaribv.github.io'
 SITETITLE = 'Oscar Barragán'
 SITESUBTITLE = 'Ph.D. in Astrophysics'
 FAVICON = SITEURL + '/images/io.jpg'
 MAIN_MENU = True
-DISPLAY_PAGES_ON_MENU = False
+DISPLAY_PAGES_ON_MENU = True
 
 THEME = '/home/barraganl/Projects/flex'
 
@@ -23,7 +23,7 @@ OUTPUT_PATH = '../oscaribv.github.io'
 
 GOOGLE_ANALYTICS = 'UA-108009879-1'
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'Europe/London'
 
 DEFAULT_LANG = 'en'
 
@@ -36,15 +36,15 @@ DEFAULT_LANG = 'en'
 
 
 # Feed generation is usually not desired when developing
-#FEED_ALL_ATOM = None
-#CATEGORY_FEED_ATOM = None
-#TRANSLATION_FEED_ATOM = None
-#AUTHOR_FEED_ATOM = None
-#AUTHOR_FEED_RSS = None
+FEED_ALL_ATOM = None
+CATEGORY_FEED_ATOM = None
+TRANSLATION_FEED_ATOM = None
+AUTHOR_FEED_ATOM = None
+AUTHOR_FEED_RSS = None
 
 
-MENUITEMS = (('About me',SITEURL+'/pages/about.html'),
-             ('Categories', '/categories.html'),
+#Items to appear in top menu
+MENUITEMS = (('Categories', '/categories.html'),
              ('Tags', '/tags.html'),)
 # Blogroll
 LINKS = ( ('Publications','https://goo.gl/YAi4NV'),
@@ -59,5 +59,5 @@ SOCIAL = (('twitter', 'http://twitter.com/oscaribv'),
 
 DEFAULT_PAGINATION = 10
 
-# Uncomment following line if you want document-relative URLs when developing
+#Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
