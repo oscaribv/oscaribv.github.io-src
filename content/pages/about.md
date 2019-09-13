@@ -25,8 +25,12 @@ Authors: Oscar Barragán
 
 ## PUBLICATIONS
 
-I am first author of four papers peer-review journals, they are described briefly here:
+I am first author of five papers in peer-review journals, they are described briefly here:
 
+* [K2-100b](https://oscaribv.github.io/2019/k2100.html#k2100) is a 3.8 R_Earth planet transiting a star member of the young Praesepe cluster (700–800 Myr) each 1.67 days. 
+  We performed a detailed analysis of HARPS-N radial velocity observations and we detected the planet signal in the activity-dominated radial velocity timeseries of the star.
+  This is the first mass measurement for a transiting planet in a young open cluster. Its atmosphere is currently evaporating, 
+  this puffy young planet that will teach us a lot about photoevaporation. Learn more about this interesting system in this [blog](https://oscaribv.github.io/2019/k2100.html#k2100) or go directly to check [Barragán et al., 2019, MNRAS, in press.](https://arxiv.org/abs/1909.05252).
 * [**pyaneti**](https://github.com/oscaribv/pyaneti) is a multi-planet radial velocity and transit fit software. 
   The code uses Markov chain Monte Carlo (MCMC) methods with a Bayesian approach and a parallelized ensemble sampler 
   algorithm in Fortran which makes the code fast. It creates posteriors, correlations, and ready-to-publish plots automatically, 
@@ -34,7 +38,7 @@ I am first author of four papers peer-review journals, they are described briefl
   systemic velocities for multiple instruments, and short and long cadence data, and offers additional capabilities.
   Learn more about this awesome, fast and totally open source code in 
   [**Barragán**, Gandolfi, and Antoniciello, 2019, MNRAS, 482, 1017](https://academic.oup.com/mnras/article-abstract/482/1/1017/5094600).
-* **K2-141 b** is a rocky planet which orbit its star each 6.7 hours! This Ultra-Short-Period (P < 1 days) Super-Earth
+* **K2-141 b** is a rocky planet which orbit its star each 6.7 hours! This Ultra-Short-Period (Period shorter than 1 days) Super-Earth
   is the shortest-period planet known to date with a precisely determined mass. 
   Learn more about this planet in [**Barragán** et al., 2017, A&A, 612, A95](https://www.aanda.org/10.1051/0004-6361/201732217).
 * **K2-139 b** is a planet with a size similar to Jupiter, but with a third
@@ -44,7 +48,7 @@ I am first author of four papers peer-review journals, they are described briefl
   The planet orbits its star each 10 days. We calculated that the planet will be engulfed by its host star in 3 Gyr.
   The discovery is reported in [**Barragán** et al., 2016, AJ, 152, 193](http://iopscience.iop.org/article/10.3847/0004-6256/152/6/193/meta)
 
-** I am coauthor of another thirty peer-review papers. You can find my whole list of my publications [here](https://goo.gl/YAi4NV) **.
+** I am coauthor of another tens of peer-review papers with more exciting exoplanet related discoveries. You can find my whole list of my publications [here](https://goo.gl/YAi4NV) **.
 
 ## EDUCATION
 
@@ -80,9 +84,12 @@ I am first author of four papers peer-review journals, they are described briefl
 
 ## EXPERIENCE IN ASTRONOMY
 
-* **Observational experience**: Multi-band photometric observations at the 2.1 m telescope in San Pedro Mártir,
-  Ensenada, BC, Mexico (3 nights). High-resolution spectroscopic observations with FIES at the 2.58 m Nordic Optical Telescope,
-  La Palma, Spain (3 nights). High-resolution spectroscopic observations with HARPS at the ESO La Silla 3.6m
+* **44 nights of observational experience**: Multi-band photometric observations at the 2.1 m telescope in San Pedro Mártir,
+  Ensenada, BC, Mexico (3 nights). 
+  High-resolution spectroscopic observations with FIES at the 2.58 m Nordic Optical Telescope,
+  La Palma, Spain (3 nights). 
+  High-resolution spectroscopic observations with HARPS-N at the _Telescopio Nazionale Galileo_ (TNG) at La Palma, Spain (5 nights).
+  High-resolution spectroscopic observations with HARPS at the ESO La Silla 3.6m
   telescope, La Silla, Chile (33 nights in 6 runs).
 * **Theoretical experience**: Theoretical and numerical simulations of fluid physics in astronomy,
   using classical, relativistic, and general relativistic hydrodynamics. Simulations of relativistic jets
@@ -106,8 +113,9 @@ I am first author of four papers peer-review journals, they are described briefl
 
 ## OUTREACH EXPERIENCE
 
-* Online outreach contributions [here](pages/outreach)
+* Online outreach contributions [here](https://oscaribv.github.io/pages/outreach.html#outreach)
 * Participant in Outreach activities organised by the University of Oxford (Jan 2019 - present).
+* Invited to outreach talks in different events in different countries (e.g., _Pint of Science_ in UK, _Astronomy on Tap_ in Sweden).
 * More than 20 outreach astronomical activities. They include conferences
   and activities with telescopes, these events have been organized by a collaboration
   between the University of Guanajuato with different institutions such as
@@ -124,6 +132,6 @@ As well as stars, the other things that I like are...
 * Music
 * Classical and Sci-fi literature
 * Art cinema
-* Dinosaur movies
+* Dinosaurs 
 * Tango dancing
 * Photography

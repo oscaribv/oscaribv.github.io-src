@@ -15,7 +15,7 @@ THEME = '/home/barraganl/Projects/flex'
 COPYRIGHT_NAME = 'Oscar Barragán'
 
 PATH = 'content'
-ARTICLE_PATHS = ['astroaventuras','tutorials']
+ARTICLE_PATHS = ['astroaventuras','tutorials','exoplanets']
 ARTICLE_SAVE_AS = '{date:%Y}/{slug}.html'
 ARTICLE_URL = '{date:%Y}/{slug}.html'
 

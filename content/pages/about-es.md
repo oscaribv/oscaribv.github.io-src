@@ -26,8 +26,13 @@ Authors: Oscar Barragán
 
 ## PUBLICACIONES
 
-Soy primer autor de cuatro artículos científicos. Una pequeña descripción de ellos aparece aquí:
+Soy primer autor de cinco artículos científicos. Una pequeña descripción de ellos aparece aquí:
 
+* [K2-100b](https://oscaribv.github.io/2019/k2100.html#k2100) es un planeta con un radio de 3.8 veces el radio de la Tierra que orbita una estrella que pertenece al joven cúmulo de Persepe cada 1.67 días. 
+  Nosotros analizamos en detalle velocidades radiales provenientes de HARPS-N y fuimos capaces de detectar la señal del planeta en los datos estelares que eran dominados por actividad magnética.
+  Este descubrimiento es la primera medición de masa de un planeta transitante en un cúmulo abierto. Su atmósfera se esetá evaporando actualmente, así que este joven e inflado planeta nos enseñará 
+  un montón acerca de la fotoevaporación. 
+  Si quieres saber más puedes leer este [blog](https://oscaribv.github.io/2019/k2100.html#k2100) or ir directamente al artículo -> [Barragán et al., 2019, MNRAS, in press.](https://arxiv.org/abs/1909.05252).
 * [**pyaneti**](https://github.com/oscaribv/pyaneti) es un software capaz de ajustar modelos de multiplanetas a datos de velocidad radial y tránsitos.
   El código utiliza métodos Markov chain Monte Carlo con estadística Bayesiana para explorar los espacios de parámetros multi-dimensionales.
   pyaneti está escrito en FORTRAN y PYTHON, lo que hace de este un código rápido y versatil.
@@ -36,14 +41,14 @@ Soy primer autor de cuatro artículos científicos. Una pequeña descripción de
   Mira más detalles de este genial, rápido y compleamente código abierto en 
   [**Barragán**, Gandolfi, and Antoniciello, 2019, MNRAS, 482, 1017](https://academic.oup.com/mnras/article-abstract/482/1/1017/5094600).
 * ¡**K2-141 b**  es un planeta rocoso que orbita su estrella cada 6.7 horas! 
-  Este planeta de periodo ultra corto (P < 1 día) es el planeta con el periodo más corto que cuenta con una determinación precisa de la masa hasta hoy. 
+  Este planeta de periodo ultra corto (menor a 1 día) es el planeta con el periodo más corto que cuenta con una determinación precisa de la masa hasta hoy. 
   Aprende más sobre este planeta en [**Barragán** et al., 2017, A&A, 612, A95](https://www.aanda.org/10.1051/0004-6361/201732217).
 * **K2-139 b** es un planeta con un tamaño similar a Júpiter, pero con una masa que es un tercio de la masa de Júpiter. Este planeta orbita su estrella cada 29 días. Puedes encontrar los detalles técnicos en [**Barragán** et al., 2017, MNRAS, 475, 175](https://academic.oup.com/mnras/article/475/2/1765/4739349)
 * **K2-98 b** es un planeta con tamaño y densidad similar a Neptuno. 
   Este planeta tiene un periodo orbital de 10 días. Calculamos que este planeta será devorado por su estrella en 3 Giga-años (3,000,000,000 años).
   Este descubrimiento está reportado en [**Barragán** et al., 2016, AJ, 152, 193](http://iopscience.iop.org/article/10.3847/0004-6256/152/6/193/meta)
 
-** También soy coautor de otros treinta artículos científicos. Puedes encontrar mi lista completa de publicaciones [aquí](https://goo.gl/YAi4NV) **.
+** También soy coautor de otras decenas de artículos científicos con más descubrimientos relacionados a exoplanetas. Puedes encontrar mi lista completa de publicaciones [aquí](https://goo.gl/YAi4NV) **.
 
 ## EDUCACIÓN
 
@@ -78,9 +83,12 @@ Soy primer autor de cuatro artículos científicos. Una pequeña descripción de
 
 ## EXPERIENCIA EN ASTRONOMÍA
 
-* **Experiencia observacional**: Observaciones de fotometría de multi-banda en el telescopio de 2.1m en San Pedro Mártir, Ensenada, BC, México (3 noches).
+* **44 noches de experiencia observacional**: 
+  Observaciones de fotometría de multi-banda en el telescopio de 2.1m en San Pedro Mártir, Ensenada, BC, México (3 noches).
   Espectroscopía de alta resolución con FIES al _Nordic Optical Telescope_ de 2.58 m, 
   La Palma, España (3 noches). 
+  Espectroscopía de alta resolución con HARPS-N al _Telescopio Nazionale Galileo_ (TNG),
+  La Palma, España (5 noches).
   Espectroscopía de alta resolución con HARPS al telescopio 3.6 m de la ESO,
   La Silla, Chile (33 noches en 6 temporadas).
 * **Experiencia teórica**: Cálculos teóricos y numéricos de física de fluidos en astronomía,
@@ -102,8 +110,9 @@ Soy primer autor de cuatro artículos científicos. Una pequeña descripción de
 
 ## DIVULGACIÓN
 
-* Contribuciones a la divulgación on-line [aquí](pages/outreach-es)
+* Contribuciones a la divulgación on-line [aquí](https://oscaribv.github.io/pages/outreach-es.html)
 * Participante en actidades de divulgación organizadas por la Universidad de Oxford (Jan 2019 - present).
+* Invitado a relizar charlas de divulgación en diferentes eventos internacionales (v.g., _Pint of Science_ en Reino Unido, _Astronomy on Tap_ en Suecia).
 * Más de 20 actividades de divulgación astronómica. Entre ellas están conferencias y actividades al aire libre con telescopios. Estos eventos fueron realizados en colaboración del Departamento de Astronomía de la Universidad de Guanajuato con diferentes instituciones como 
   _Noche de las Estrellas Nacional_ y _Mi Barrio Modelo_.
 * Invitado por diferentes instituciones en México para realizar charlas de divulgación. Estás instituciones son _Centro de Investigaciones en Matemáticas (CIMAT)_, _Universidad Autónoma de Aguascalientes_, _Museo Descubre_, entre otras.
@@ -117,6 +126,6 @@ Además de las estrellas, las otras cosas que me gustan son ...
 * Música
 * Literatura clásica y de ciencia ficción
 * Cine de arte
-* Películas de dinosaurios
+* Dinosaurios
 * Tango
 * Fotografía
