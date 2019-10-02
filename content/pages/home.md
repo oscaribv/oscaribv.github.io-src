@@ -19,3 +19,10 @@ I currently work as a post-doc at the Department of Physics of the [University o
 * Click [here](pages/contact) to contact me
 
 * If you have radial velocity and/or transit data and want to fit planets try [pyaneti](https://github.com/oscaribv/pyaneti)
+
+
+<center>
+Here a photo of me with the Milky Way outside the _Telescopio Nazionale Galileo_.
+
+<img src="https://oscaribv.github.io/images/oscarandmw.jpg" alt="Oscar and Milky Way"/>
+</center>

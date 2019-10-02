@@ -48,7 +48,7 @@ I am first author of five papers in peer-review journals, they are described bri
   The planet orbits its star each 10 days. We calculated that the planet will be engulfed by its host star in 3 Gyr.
   The discovery is reported in [**Barragán** et al., 2016, AJ, 152, 193](http://iopscience.iop.org/article/10.3847/0004-6256/152/6/193/meta)
 
-** I am coauthor of another tens of peer-review papers with more exciting exoplanet related discoveries. You can find my whole list of my publications [here](https://goo.gl/YAi4NV) **.
+** I am coauthor of tens of peer-review papers with more exciting exoplanet related discoveries. You can find my whole list of my publications [here](https://goo.gl/YAi4NV) **.
 
 ## EDUCATION
 

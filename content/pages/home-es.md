@@ -20,3 +20,9 @@ Actualmente realizo un post-doc en el Departamento de Física de la [Universidad
 * Si tienes datos de velocidad radial y/o curva de luz y quieres ajustar por parámetros de planetas, puedes usar [pyaneti](https://github.com/oscaribv/pyaneti) (inglés)
 
 * Da un click [aquí](https://goo.gl/YAi4NV) para ver mi lista de publicaciones
+
+<center>
+Y aquí una foto mia posando con la Vía Láctea afuera del _Telescopio Nazionale Galileo_.
+
+<img src="https://oscaribv.github.io/images/oscarandmw.jpg" alt="Oscar and Milky Way"/>
+</center
