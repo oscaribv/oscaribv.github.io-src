@@ -80,6 +80,8 @@ Soy primer autor de cinco artículos científicos. Una pequeña descripción de 
 
 * Astronomical Journal (AJ).
 * Nature Astronomy (Nat. Astron.).
+* Astronomy & Astrophysics (A&A).
+
 
 ## EXPERIENCIA EN ASTRONOMÍA
 
@@ -128,4 +130,4 @@ Además de las estrellas, las otras cosas que me gustan son ...
 * Cine de arte
 * Dinosaurios
 * Tango
-* Fotografía
+* [Fotografía](https://www.flickr.com/photos/oscaribv/)

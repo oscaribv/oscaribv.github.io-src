@@ -54,6 +54,7 @@ LINKS = ( ('Publications','https://goo.gl/YAi4NV'),
 SOCIAL = (('twitter', 'http://twitter.com/oscaribv'),
           ('github', 'http://github.com/oscaribv'),
           ('linkedin', 'https://www.linkedin.com/in/oscaribv/'),
+          ('flickr', 'https://www.flickr.com/photos/oscaribv/'),
           ('instagram', 'https://www.instagram.com/oscaribv'))
 
 

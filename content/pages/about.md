@@ -80,6 +80,7 @@ I am first author of five papers in peer-review journals, they are described bri
 
 * Astronomical Journal (AJ).
 * Nature Astronomy (Nat. Astron.).
+* Astronomy & Astrophysics (A&A).
 
 
 ## EXPERIENCE IN ASTRONOMY
@@ -134,4 +135,4 @@ As well as stars, the other things that I like are...
 * Art cinema
 * Dinosaurs 
 * Tango dancing
-* Photography
+* [Photography](https://www.flickr.com/photos/oscaribv/)
