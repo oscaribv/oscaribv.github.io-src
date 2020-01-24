@@ -80,18 +80,22 @@ I am first author of five papers in peer-review journals, they are described bri
 
 * Astronomical Journal (AJ).
 * Nature Astronomy (Nat. Astron.).
-* Astronomy & Astrophysics (A&A).
+* Astronomy & Astrophysics Letters (A&A).
+* The Journal of the Korean Astronomical Society (JKAS).
+
+## TEACHING EXPERIENCE
+* Organiser and teacher of the astronomy school ["De exoplanetas y otros demonios"](https://github.com/oscaribv/exoplanetas_y_otros_demonios), December 2019, Bucaramanga, Santander, Colombia.
 
 
 ## EXPERIENCE IN ASTRONOMY
 
-* **44 nights of observational experience**: Multi-band photometric observations at the 2.1 m telescope in San Pedro Mártir,
+* **60 nights of observational experience**: Multi-band photometric observations at the 2.1 m telescope in San Pedro Mártir,
   Ensenada, BC, Mexico (3 nights). 
   High-resolution spectroscopic observations with FIES at the 2.58 m Nordic Optical Telescope,
   La Palma, Spain (3 nights). 
   High-resolution spectroscopic observations with HARPS-N at the _Telescopio Nazionale Galileo_ (TNG) at La Palma, Spain (5 nights).
   High-resolution spectroscopic observations with HARPS at the ESO La Silla 3.6m
-  telescope, La Silla, Chile (33 nights in 6 runs).
+  telescope, La Silla, Chile (49 nights in 8 runs).
 * **Theoretical experience**: Theoretical and numerical simulations of fluid physics in astronomy,
   using classical, relativistic, and general relativistic hydrodynamics. Simulations of relativistic jets
   by using a GRMHD module written by myself. Circumstellar disks simulations by using the state-of-the-art

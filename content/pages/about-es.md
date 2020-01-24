@@ -80,19 +80,22 @@ Soy primer autor de cinco artículos científicos. Una pequeña descripción de 
 
 * Astronomical Journal (AJ).
 * Nature Astronomy (Nat. Astron.).
-* Astronomy & Astrophysics (A&A).
+* Astronomy & Astrophysics Letters (A&A).
+* The Journal of the Korean Astronomical Society (JKAS).
 
+## EXPERIENCIA DOCENTE
+* Organizador y maestro de la escuela de astrofísica titulada ["De exoplanetas y otros demonios"](https://github.com/oscaribv/exoplanetas_y_otros_demonios), diciembre 2019, en Bucaramanga, Santander, Colombia.
 
 ## EXPERIENCIA EN ASTRONOMÍA
 
-* **44 noches de experiencia observacional**: 
+* **60 noches de experiencia observacional**: 
   Observaciones de fotometría de multi-banda en el telescopio de 2.1m en San Pedro Mártir, Ensenada, BC, México (3 noches).
   Espectroscopía de alta resolución con FIES al _Nordic Optical Telescope_ de 2.58 m, 
   La Palma, España (3 noches). 
   Espectroscopía de alta resolución con HARPS-N al _Telescopio Nazionale Galileo_ (TNG),
   La Palma, España (5 noches).
   Espectroscopía de alta resolución con HARPS al telescopio 3.6 m de la ESO,
-  La Silla, Chile (33 noches en 6 temporadas).
+  La Silla, Chile (49 noches en 8 temporadas).
 * **Experiencia teórica**: Cálculos teóricos y numéricos de física de fluidos en astronomía,
   usando hidrodinámica clásica y relativista. Escribí y use un módulo GRMHD por mi mismo.
   Simulación de discos circumestelares utilizando el código de última generación FARGO3D. 
