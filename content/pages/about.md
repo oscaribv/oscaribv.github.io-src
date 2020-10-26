@@ -78,10 +78,12 @@ I am first author of five papers in peer-review journals, they are described bri
 
 ## REFEREE SERVICES
 
-* Astronomical Journal (AJ).
 * Nature Astronomy (Nat. Astron.).
-* Astronomy & Astrophysics Letters (A&A).
+* The Astronomical Journal (AJ).
+* Astronomy \& Astrophysics (A\&A) and  Astronomy \& Astrophysics  Letters (A\&A\,L)
+* OPTICON-TAC external science reviewer.
 * The Journal of the Korean Astronomical Society (JKAS).
+* Astrophysics and Space Science (ASTR).
 
 ## TEACHING EXPERIENCE
 * Organiser and teacher of the astronomy school ["De exoplanetas y otros demonios"](https://github.com/oscaribv/exoplanetas_y_otros_demonios), December 2019, Bucaramanga, Santander, Colombia.

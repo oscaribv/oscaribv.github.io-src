@@ -34,14 +34,12 @@ DEFAULT_LANG = 'en'
 #    'extensions': ['jinja2.ext.i18n'],
 #}
 
-
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
-
 
 #Items to appear in top menu
 MENUITEMS = (('Categories', '/categories.html'),
@@ -55,10 +53,16 @@ SOCIAL = (('twitter', 'http://twitter.com/oscaribv'),
           ('github', 'http://github.com/oscaribv'),
           ('linkedin', 'https://www.linkedin.com/in/oscaribv/'),
           ('flickr', 'https://www.flickr.com/photos/oscaribv/'),
-          ('instagram', 'https://www.instagram.com/oscaribv'))
-
+          )
 
 DEFAULT_PAGINATION = 10
+
+THEME_COLOR = 'light'
+THEME_COLOR_AUTO_DETECT_BROWSER_PREFERENCE = True
+THEME_COLOR_ENABLE_USER_OVERRIDE = True
+
+PYGMENTS_STYLE = 'vim'
+#PYGMENTS_STYLE_DARK = 'monokai'
 
 #Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True

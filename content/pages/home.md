@@ -4,8 +4,6 @@ Date: 2017-10-13
 Modified: 2017-12-02
 Lang: en
 Authors: Oscar Barragan
-save_as: index.html
-url: index.html
 
 # Hola, my name is **Oscar Barragán**. 
 
@@ -20,9 +18,6 @@ I currently work as a post-doc at the Department of Physics of the [University o
 
 * If you have radial velocity and/or transit data and want to fit planets try [pyaneti](https://github.com/oscaribv/pyaneti)
 
-
 <center>
-Here a photo of me with the Milky Way outside the _Telescopio Nazionale Galileo_.
-
 <img src="https://oscaribv.github.io/images/oscarandmw.jpg" alt="Oscar and Milky Way"/>
 </center>

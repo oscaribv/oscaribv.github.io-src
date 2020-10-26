@@ -78,10 +78,12 @@ Soy primer autor de cinco artículos científicos. Una pequeña descripción de 
 
 ## SERVICIOS DE RÉFERI
 
-* Astronomical Journal (AJ).
 * Nature Astronomy (Nat. Astron.).
-* Astronomy & Astrophysics Letters (A&A).
+* The Astronomical Journal (AJ).
+* Astronomy \& Astrophysics (A\&A) and  Astronomy \& Astrophysics  Letters (A\&A\,L)
+* OPTICON-TAC external science reviewer.
 * The Journal of the Korean Astronomical Society (JKAS).
+* Astrophysics and Space Science (ASTR).
 
 ## EXPERIENCIA DOCENTE
 * Organizador y maestro de la escuela de astrofísica titulada ["De exoplanetas y otros demonios"](https://github.com/oscaribv/exoplanetas_y_otros_demonios), diciembre 2019, en Bucaramanga, Santander, Colombia.
