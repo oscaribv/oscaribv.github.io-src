@@ -7,6 +7,11 @@ Authors: Oscar Barragán
 
 ## POSICIONES
 
+#### PDRA in n High Precision Radial Velocity 
+
+* Enero 2021 - Presente
+* [Departamento de Física, Universidad de Oxford](https://www2.physics.ox.ac.uk/contacts/people/barragan), UK.
+
 #### PDRA in exoplanet discovery with the PLATO mission  
 
 * Enero 2019 - enero 2021
@@ -30,9 +35,11 @@ Soy primer autor de cinco artículos científicos. Una pequeña descripción de 
 
 * [K2-100b](https://oscaribv.github.io/2019/k2100.html#k2100) es un planeta con un radio de 3.8 veces el radio de la Tierra que orbita una estrella que pertenece al joven cúmulo de Persepe cada 1.67 días. 
   Nosotros analizamos en detalle velocidades radiales provenientes de HARPS-N y fuimos capaces de detectar la señal del planeta en los datos estelares que eran dominados por actividad magnética.
-  Este descubrimiento es la primera medición de masa de un planeta transitante en un cúmulo abierto. Su atmósfera se esetá evaporando actualmente, así que este joven e inflado planeta nos enseñará 
-  un montón acerca de la fotoevaporación. 
-  Si quieres saber más puedes leer este [blog](https://oscaribv.github.io/2019/k2100.html#k2100) or ir directamente al artículo -> [Barragán et al., 2019, MNRAS, in press.](https://arxiv.org/abs/1909.05252).
+  Este descubrimiento es la primera medición de masa de un planeta transitante en un cúmulo abierto. 
+  Su atmósfera se está evaporando actualmente, así que este joven e inflado planeta nos 
+  enseñará un montón acerca de la fotoevaporación. 
+  Si quieres saber más puedes leer este [blog](https://oscaribv.github.io/2019/k2100.html#k2100) 
+  o ir directamente al artículo -> [Barragán et al., 2019, MNRAS, 490, 698](https://arxiv.org/abs/1909.05252).
 * [**pyaneti**](https://github.com/oscaribv/pyaneti) es un software capaz de ajustar modelos de multiplanetas a datos de velocidad radial y tránsitos.
   El código utiliza métodos Markov chain Monte Carlo con estadística Bayesiana para explorar los espacios de parámetros multi-dimensionales.
   pyaneti está escrito en FORTRAN y PYTHON, lo que hace de este un código rápido y versatil.
@@ -48,7 +55,8 @@ Soy primer autor de cinco artículos científicos. Una pequeña descripción de 
   Este planeta tiene un periodo orbital de 10 días. Calculamos que este planeta será devorado por su estrella en 3 Giga-años (3,000,000,000 años).
   Este descubrimiento está reportado en [**Barragán** et al., 2016, AJ, 152, 193](http://iopscience.iop.org/article/10.3847/0004-6256/152/6/193/meta)
 
-** También soy coautor de otras decenas de artículos científicos con más descubrimientos relacionados a exoplanetas. Puedes encontrar mi lista completa de publicaciones [aquí](https://goo.gl/YAi4NV) **.
+** También soy coautor de otras decenas de artículos científicos con más descubrimientos relacionados a exoplanetas. Puedes encontrar mi lista completa de publicaciones 
+[aquí](https://bit.ly/3uSSLO7) **.
 
 ## EDUCACIÓN
 
@@ -78,15 +86,29 @@ Soy primer autor de cinco artículos científicos. Una pequeña descripción de 
 
 ## SERVICIOS DE RÉFERI
 
+He sido referee en las siguientes revistas científicas y paneles:
+
 * Nature Astronomy (Nat. Astron.).
 * The Astronomical Journal (AJ).
-* Astronomy \& Astrophysics (A\&A) and  Astronomy \& Astrophysics  Letters (A\&A\,L)
+* Astronomy & Astrophysics (A&A) and  Astronomy & Astrophysics  Letters (A&AL)
+* Montly Notices of the Royal Astronomy Society (MNRAS).
+* Internal reviewer of PLATO on-ground data processing documents.
 * OPTICON-TAC external science reviewer.
 * The Journal of the Korean Astronomical Society (JKAS).
 * Astrophysics and Space Science (ASTR).
 
 ## EXPERIENCIA DOCENTE
+
 * Organizador y maestro de la escuela de astrofísica titulada ["De exoplanetas y otros demonios"](https://github.com/oscaribv/exoplanetas_y_otros_demonios), diciembre 2019, en Bucaramanga, Santander, Colombia.
+* Pricipal supervisor de un estudiante de maestria en la Universidad de Guanajuato, México, 2020-present.
+* Co-supervisor de dos estudiantes de maestria en la Universidad de Turín.
+* Co-supervisor de dos estudiantes de maestria en la Universidad de Oxford.
+
+## IDIOMAS
+
+* Español (Nativo)
+* Italiano (Fluente)
+* Inglés (Fluente)
 
 ## EXPERIENCIA EN ASTRONOMÍA
 

@@ -7,6 +7,12 @@ Authors: Oscar Barragán
 
 ## POSITIONS
 
+
+#### PDRA in n High Precision Radial Velocity 
+
+* Jan. 2021 - Present
+* [Department of Physics, University of Oxford](https://www2.physics.ox.ac.uk/contacts/people/barragan), UK.
+
 #### PDRA in exoplanet discovery with the PLATO mission  
 
 * Jan. 2019 - Jan. 2021
@@ -30,7 +36,9 @@ I am first author of five papers in peer-review journals, they are described bri
 * [K2-100b](https://oscaribv.github.io/2019/k2100.html#k2100) is a 3.8 R_Earth planet transiting a star member of the young Praesepe cluster (700–800 Myr) each 1.67 days. 
   We performed a detailed analysis of HARPS-N radial velocity observations and we detected the planet signal in the activity-dominated radial velocity timeseries of the star.
   This is the first mass measurement for a transiting planet in a young open cluster. Its atmosphere is currently evaporating, 
-  this puffy young planet that will teach us a lot about photoevaporation. Learn more about this interesting system in this [blog](https://oscaribv.github.io/2019/k2100.html#k2100) or go directly to check [Barragán et al., 2019, MNRAS, in press.](https://arxiv.org/abs/1909.05252).
+  this puffy young planet that will teach us a lot about photoevaporation. 
+  Learn more about this interesting system in this [blog](https://oscaribv.github.io/2019/k2100.html#k2100) 
+  or go directly to check [Barragán et al., 2019, MNRAS, 490, 698](https://arxiv.org/abs/1909.05252).
 * [**pyaneti**](https://github.com/oscaribv/pyaneti) is a multi-planet radial velocity and transit fit software. 
   The code uses Markov chain Monte Carlo (MCMC) methods with a Bayesian approach and a parallelized ensemble sampler 
   algorithm in Fortran which makes the code fast. It creates posteriors, correlations, and ready-to-publish plots automatically, 
@@ -48,7 +56,8 @@ I am first author of five papers in peer-review journals, they are described bri
   The planet orbits its star each 10 days. We calculated that the planet will be engulfed by its host star in 3 Gyr.
   The discovery is reported in [**Barragán** et al., 2016, AJ, 152, 193](http://iopscience.iop.org/article/10.3847/0004-6256/152/6/193/meta)
 
-** I am coauthor of tens of peer-review papers with more exciting exoplanet related discoveries. You can find my whole list of my publications [here](https://goo.gl/YAi4NV) **.
+** I am coauthor of tens of peer-review papers with more exciting exoplanet related discoveries. You can find my whole list of my publications 
+[here](https://bit.ly/3uSSLO7) **.
 
 ## EDUCATION
 
@@ -78,16 +87,30 @@ I am first author of five papers in peer-review journals, they are described bri
 
 ## REFEREE SERVICES
 
+
+I have been refereed in the following journals and review cometees: 
+
 * Nature Astronomy (Nat. Astron.).
 * The Astronomical Journal (AJ).
-* Astronomy \& Astrophysics (A\&A) and  Astronomy \& Astrophysics  Letters (A\&A\,L)
+* Astronomy & Astrophysics (A&A) and  Astronomy & Astrophysics  Letters (A&AL)
+* Montly Notices of the Royal Astronomy Society (MNRAS).
+* Internal reviewer of PLATO on-ground data processing documents.
 * OPTICON-TAC external science reviewer.
 * The Journal of the Korean Astronomical Society (JKAS).
 * Astrophysics and Space Science (ASTR).
 
 ## TEACHING EXPERIENCE
-* Organiser and teacher of the astronomy school ["De exoplanetas y otros demonios"](https://github.com/oscaribv/exoplanetas_y_otros_demonios), December 2019, Bucaramanga, Santander, Colombia.
 
+* Organiser and teacher of the astronomy school ["De exoplanetas y otros demonios"](https://github.com/oscaribv/exoplanetas_y_otros_demonios), December 2019, Bucaramanga, Santander, Colombia.
+* Main supervisor of one master student in the Universidad de Guanajuato, Mexico, 2020-present.
+* Co-supervisor of two master students in the University of Turin.
+* Co-supervisor of two master students in the University of Oxford.
+
+## LANGUAGE SKILLS
+
+* Spanish (Native)
+* Italian (Fluent)
+* English (Fluent)
 
 ## EXPERIENCE IN ASTRONOMY
 

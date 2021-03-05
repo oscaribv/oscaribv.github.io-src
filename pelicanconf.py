@@ -5,7 +5,7 @@ AUTHOR = 'Oscar Barragán'
 SITENAME = "Oscar Barragán's web page"
 SITEURL = 'https://oscaribv.github.io'
 SITETITLE = 'Oscar Barragán'
-SITESUBTITLE = 'Ph.D. in Astrophysics'
+SITESUBTITLE = 'Ph.D. in Physics and Astrophysics'
 FAVICON = SITEURL + '/images/io.jpg'
 MAIN_MENU = True
 DISPLAY_PAGES_ON_MENU = True
@@ -45,7 +45,7 @@ AUTHOR_FEED_RSS = None
 MENUITEMS = (('Categories', '/categories.html'),
              ('Tags', '/tags.html'),)
 # Blogroll
-LINKS = ( ('Publications','https://goo.gl/YAi4NV'),
+LINKS = ( ('Publications','https://bit.ly/3uSSLO7'),
           ('ORCID','https://orcid.org/0000-0003-0563-0493'))
 
 # Social widget
