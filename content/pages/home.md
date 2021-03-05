@@ -21,7 +21,4 @@ I am currently working in my second postdoc at the Department of Physics of the 
 
 * Click [here](https://bit.ly/3uSSLO7) to see my peer-reviewed publications.
 
-
-<center>
-<img src="https://oscaribv.github.io/images/oscarandmw.jpg" alt="Oscar and Milky Way"/>
-</center>
+<img src="https://live.staticflickr.com/65535/49370800288_b809a8dc7a_b.jpg" width="1024" height="334" alt="oscarmw2-improved"/>
