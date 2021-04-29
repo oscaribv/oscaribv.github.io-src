@@ -6,7 +6,7 @@ SITENAME = "Oscar Barragán's web page"
 SITEURL = 'https://oscaribv.github.io'
 SITETITLE = 'Oscar Barragán'
 SITESUBTITLE = 'Ph.D. in Physics and Astrophysics'
-FAVICON = SITEURL + '/images/io.jpg'
+FAVICON = 'https://raw.githubusercontent.com/oscaribv/oscaribv.github.io/master/images/io.jpg'
 MAIN_MENU = True
 DISPLAY_PAGES_ON_MENU = True
 

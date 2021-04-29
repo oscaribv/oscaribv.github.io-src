@@ -21,5 +21,5 @@ Actualmente realizo mi segundo postdoc en el Departamento de Física de la [Univ
 * Da un click [aquí](https://bit.ly/3uSSLO7) para ver mi lista de publicaciones.
 
 <center>
-<img src="https://oscaribv.github.io/images/oscarandmw.jpg" alt="Oscar and Milky Way"/>
-</center
+<img src="https://oscaribv.github.io/images/oscarandmw.jpg" width="1024" alt="Oscar and Milky Way"/>
+</center>
