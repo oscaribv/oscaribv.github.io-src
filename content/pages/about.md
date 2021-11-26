@@ -8,7 +8,7 @@ Authors: Oscar Barragán
 ## POSITIONS
 
 
-#### PDRA in n High Precision Radial Velocity 
+#### PDRA in High Precision Radial Velocity 
 
 * Jan. 2021 - Present
 * [Department of Physics, University of Oxford](https://www2.physics.ox.ac.uk/contacts/people/barragan), UK.
@@ -23,7 +23,6 @@ Authors: Oscar Barragán
 * Exoplanets
 * Planets detection
 * Transiting planets
-* High-precision radial velocity
 * High-precision spectroscopy
 * Bayesian data analysis
 * Numerical astrophysics
@@ -31,9 +30,27 @@ Authors: Oscar Barragán
 
 ## PUBLICATIONS
 
-I am first author of five papers in peer-review journals, they are described briefly here:
+I am first author of seven papers in peer-review journals, they are described briefly here:
 
-* [K2-100b](https://oscaribv.github.io/2019/k2100.html#k2100) is a 3.8 R_Earth planet transiting a star member of the young Praesepe cluster (700–800 Myr) each 1.67 days. 
+* [**HD 73583 (a.k.a TOI-560)**](https://oscaribv.github.io/2021/hd73583.html) is young (~750 Myr) planetary system 
+  containing two transiting mini-Neptunes with radii of 2.8 and 2.4 R_Earth
+  for HD 73583 b and c, respectively. We measured masses the mases to be 10 M_Earth for both planets.
+  The density ratio of both planets is unexpected in a photoevaporation scenario. This makes this system 
+  challenging for theorists and observers who have to search  for atmospheric-loss signatures. If you want
+  to know all the details about this interesting young system, check this post and
+  [**Barragán et al., 2021, MNRAS, submited**](https://ui.adsabs.harvard.edu/abs/2021arXiv211013069B/abstract).
+* [**pyaneti II**](https://github.com/oscaribv/pyaneti) is an extension to the original pyaneti code. It has
+  the same capabilities as pyaneti, but this new version has several improvements. 
+  This new release has a special emphasis on the modelling of stellar signals in radial velocity 
+  time-series. The code has a built-in multi-dimensional Gaussian process approach to modelling radial 
+  velocity and activity indicator time-series with different underlying covariance functions. 
+  This new version of the code also allows multi-band and single transit modelling; it runs on Python 3, 
+  and features overall improvements in performance. pyaneti II also comes with the codes citlalicue 
+  and citlalatonac that allow one to create synthetic photometric and spectroscopic time-series, 
+  respectively, with planetary and stellar-like signals. 
+  If you want to learn more about the black magic in this code go and see 
+  [**Barragán**, Aigrain, Rajpaul and Zicher, 2022, MNRAS, 509, 866](https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/stab2889/6383008).
+* [**K2-100b**](https://oscaribv.github.io/2019/k2100.html#k2100) is a 3.8 R_Earth planet transiting a star member of the young Praesepe cluster (700–800 Myr) each 1.67 days. 
   We performed a detailed analysis of HARPS-N radial velocity observations and we detected the planet signal in the activity-dominated radial velocity timeseries of the star.
   This is the first mass measurement for a transiting planet in a young open cluster. Its atmosphere is currently evaporating, 
   this puffy young planet that will teach us a lot about photoevaporation. 
@@ -57,7 +74,7 @@ I am first author of five papers in peer-review journals, they are described bri
   The discovery is reported in [**Barragán** et al., 2016, AJ, 152, 193](http://iopscience.iop.org/article/10.3847/0004-6256/152/6/193/meta)
 
 ** I am coauthor of tens of peer-review papers with more exciting exoplanet related discoveries. You can find my whole list of my publications 
-[here](https://bit.ly/3uSSLO7) **.
+[here](https://ui.adsabs.harvard.edu/public-libraries/MfzVJ0_vS26dJuWiZCcn0w) **.
 
 ## EDUCATION
 

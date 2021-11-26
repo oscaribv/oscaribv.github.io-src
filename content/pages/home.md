@@ -19,6 +19,6 @@ I am currently working in my second postdoc at the Department of Physics of the 
 
 * If you have radial velocity and/or transit data and want to fit planets try [pyaneti](https://github.com/oscaribv/pyaneti)
 
-* Click [here](https://bit.ly/3uSSLO7) to see my peer-reviewed publications.
+* Click [here](https://ui.adsabs.harvard.edu/public-libraries/MfzVJ0_vS26dJuWiZCcn0w) to see my peer-reviewed publications.
 
 <img src="https://live.staticflickr.com/65535/49370800288_b809a8dc7a_b.jpg" width="1024" alt="oscarmw2-improved"/>

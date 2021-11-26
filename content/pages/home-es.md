@@ -18,7 +18,7 @@ Actualmente realizo mi segundo postdoc en el Departamento de Física de la [Univ
 
 * Si tienes datos de velocidad radial y/o curva de luz y quieres ajustar por parámetros de planetas, puedes usar [pyaneti](https://github.com/oscaribv/pyaneti) (en inglés)
 
-* Da un click [aquí](https://bit.ly/3uSSLO7) para ver mi lista de publicaciones.
+* Da un click [aquí](https://ui.adsabs.harvard.edu/public-libraries/MfzVJ0_vS26dJuWiZCcn0w) para ver mi lista de publicaciones.
 
 <center>
 <img src="https://oscaribv.github.io/images/oscarandmw.jpg" width="1024" alt="Oscar and Milky Way"/>

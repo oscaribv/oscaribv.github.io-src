@@ -10,7 +10,7 @@ FAVICON = 'https://raw.githubusercontent.com/oscaribv/oscaribv.github.io/master/
 MAIN_MENU = True
 DISPLAY_PAGES_ON_MENU = True
 
-THEME = '/home/barraganl/Projects/flex'
+THEME = '/home/barraganl/Dropbox/Projects/flex'
 
 COPYRIGHT_NAME = 'Oscar Barragán'
 

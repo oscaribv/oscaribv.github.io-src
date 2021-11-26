@@ -11,10 +11,18 @@ Slug: codes
 <img src="https://raw.githubusercontent.com/oscaribv/pyaneti/master/src/images/logo_pyaneti.png" alt="pyaneti-logo" width="300"/>
 </center>
 
+#### Paper 1
+
 <a href="https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/sty2472/5094600"><img src="https://img.shields.io/badge/MNRAS-2019,482,1017-purple.svg" alt="MNRAS" /></a>
 <a href="https://arxiv.org/abs/1809.04609"><img src="https://img.shields.io/badge/arXiv-1809.04609-green.svg" alt="arXiv:1809.04609" /></a>
 <a href="http://ascl.net/1707.003"><img src="https://img.shields.io/badge/ascl-1707.003-green.svg" alt="ascl:1707.003" /></a>
 <a href="https://github.com/oscaribv/pyaneti/wiki"><img src="https://img.shields.io/badge/wiki-building-yellow.svg" alt="pyaneti wiki" /></a>
+
+
+#### Paper 2
+
+<a href="https://academic.oup.com/mnras/advance-article-abstract/doi/10.1093/mnras/stab2889/6383008"><img src="https://img.shields.io/badge/MNRAS-2022, 509, 866-blueviolet.svg" alt="MNRAS" /></a>
+<a href="https://arxiv.org/abs/2109.14086"><img src="https://img.shields.io/badge/arXiv-2109.140860-green.svg" alt="arXiv:2109.140860" /></a>
 
 **Pyaneti** is a multi-planet radial velocity and transit fit software. 
 The code uses Markov chain Monte Carlo (MCMC) methods with a Bayesian approach and a parallelized ensemble 
@@ -73,10 +81,19 @@ This is an example of a detrended light curve with Citlalicue
 <img src="https://raw.githubusercontent.com/oscaribv/oscaribv.github.io/master/images/citlalc.png" alt="citlalicue detrending" width="500"/>
 </center>
 
-## Citlalatonac
+## [Citlalatonac](https://github.com/oscaribv/pyaneti)
 
 *_Citlalatonac_* is the name of the Aztec God who created the stars together with his wife [Citlalicue](https://github.com/oscaribv/citlalicue).
-This code allows you to mimic Citlalatonac powers to create... Coming soon!.
+This code allows you to mimic Citlalatonac powers to create spectroscopic-like time-series of RVs and activity indicators for active stars.
+You can create mock spectroscopic observations assuming that the area covered by active regions on the stellar surface can be described with
+a function G(t). You can create RV-like time-series with stellar (that behave as G(t) + dG(t)/dt) and planetary signals (coherent Keplerians).
+Simultaneously, you can create time-series of photometric-like activity idicators (such as the Calcium II H & K or FWHM) or Bisector Span-like 
+activity indicators (that behave as G(t) + dG(t)/dt). This can be useful to see how different combinations of activity indicators with RVs can 
+allow you to recover Keplerian signals from your RV-like time-series. This is useful, for example, to write telescope proposals!
+
+If you want to learn how to use citlalatonac, go to this [link to create synthetic observations offers
+K2-100](https://github.com/oscaribv/pyaneti/blob/master/pyaneti_extras/synthetic_k2100.ipynb), an active young star.
+
 
 
 ## [tango](https://github.com/oscaribv/tango)
