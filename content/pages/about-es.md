@@ -12,6 +12,11 @@ Authors: Oscar Barragán
 * Enero 2021 - Presente
 * [Departamento de Física, Universidad de Oxford](https://www2.physics.ox.ac.uk/contacts/people/barragan), Reino Unido.
 
+#### Dennis Sciama non-stipendiary Junior Research Fellowship 
+
+* Enero 2022 - Diciembre 2023
+* [Wolfson college, Universidad de Oxford](https://www.wolfson.ox.ac.uk/), UK.
+
 #### PDRA in exoplanet discovery with the PLATO mission  
 
 * Enero 2019 - enero 2021
@@ -71,7 +76,7 @@ Soy primer autor de siete artículos científicos. Una pequeña descripción de 
   Este descubrimiento está reportado en [**Barragán** et al., 2016, AJ, 152, 193](http://iopscience.iop.org/article/10.3847/0004-6256/152/6/193/meta)
 
 **También soy coautor de otras decenas de artículos científicos con más descubrimientos relacionados a exoplanetas. Puedes encontrar mi lista completa de publicaciones 
-[aquí](https://ui.adsabs.harvard.edu/public-libraries/MfzVJ0_vS26dJuWiZCcn0w)**.
+[aquí](https://bit.ly/3uSSLO7)**.
 
 ## EDUCACIÓN
 
